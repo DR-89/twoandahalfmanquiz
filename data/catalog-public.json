@@ -1,0 +1,3932 @@
+[
+  {
+    "id": "s1e1",
+    "season": 1,
+    "number": 1,
+    "title": "Stur, zwanghaft und unflexibel",
+    "originalTitle": "Pilot",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep1",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e2",
+    "season": 1,
+    "number": 2,
+    "title": "Der Sockengolf-Champion",
+    "originalTitle": "Big Flappy Bastards",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep2",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e3",
+    "season": 1,
+    "number": 3,
+    "title": "War das Beethoven?",
+    "originalTitle": "Go East on Sunset Until You Reach the Gates of Hell",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep3",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e4",
+    "season": 1,
+    "number": 4,
+    "title": "Ich brauche Berta",
+    "originalTitle": "If I Can't Write My Chocolate Song, I'm Going to Take a Nap",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep4",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e5",
+    "season": 1,
+    "number": 5,
+    "title": "Der Mittwochs-Mann",
+    "originalTitle": "The Last Thing You Want Is to Wind Up with a Hump",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep5",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e6",
+    "season": 1,
+    "number": 6,
+    "title": "Gib Dir keine Mühe, Charlie",
+    "originalTitle": "Did You Check with the Captain of the Flying Monkeys?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep6",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e7",
+    "season": 1,
+    "number": 7,
+    "title": "Ich verstehe",
+    "originalTitle": "If They Do Go Either Way, They're Usually Fake",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep7",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e8",
+    "season": 1,
+    "number": 8,
+    "title": "Die Industrielle-Revolutions-Show",
+    "originalTitle": "Twenty-Five Little Pre-pubers Without a Snootful",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep8",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e9",
+    "season": 1,
+    "number": 9,
+    "title": "Phase eins, erfolgreich",
+    "originalTitle": "Phase One, Complete",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep9",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e10",
+    "season": 1,
+    "number": 10,
+    "title": "Der Truthahn und die Männlichkeit",
+    "originalTitle": "Merry Thanksgiving",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep10",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e11",
+    "season": 1,
+    "number": 11,
+    "title": "Bereit für die Großaufnahme",
+    "originalTitle": "Alan Harper, Frontier Chiropractor",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep11",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e12",
+    "season": 1,
+    "number": 12,
+    "title": "Ich kümmere mich um Prudence",
+    "originalTitle": "Camel Filters and Pheromones",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep12",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e13",
+    "season": 1,
+    "number": 13,
+    "title": "Im Bett mit Angina",
+    "originalTitle": "Sarah Like Puny Alan",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep13",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e14",
+    "season": 1,
+    "number": 14,
+    "title": "Ich kann mir keine Hyänen leisten",
+    "originalTitle": "I Can't Afford Hyenas",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep14",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e15",
+    "season": 1,
+    "number": 15,
+    "title": "Wer kriegt die Verrückte? Teil 1",
+    "originalTitle": "Round One to the Hot Crazy Chick",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep15",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e16",
+    "season": 1,
+    "number": 16,
+    "title": "Wer kriegt die Verrückte? Teil 2",
+    "originalTitle": "That Was Saliva, Alan",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep16",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e17",
+    "season": 1,
+    "number": 17,
+    "title": "Hamburger und Mützen",
+    "originalTitle": "Ate the Hamburgers, Wearing the Hats",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep17",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e18",
+    "season": 1,
+    "number": 18,
+    "title": "Alte Flamme mit neuem Docht",
+    "originalTitle": "An Old Flame with a New Wick",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep18",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e19",
+    "season": 1,
+    "number": 19,
+    "title": "Die Garderobenfrau",
+    "originalTitle": "I Remember the Coatroom, I Just Don't Remember You",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep19",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e20",
+    "season": 1,
+    "number": 20,
+    "title": "Ich kann im Dunkeln pinkeln",
+    "originalTitle": "Hey, I Can Pee Outside in the Dark",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep20",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e21",
+    "season": 1,
+    "number": 21,
+    "title": "Fragen Sie Ihren Bruder",
+    "originalTitle": "No Sniffing, No Wowing",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep21",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e22",
+    "season": 1,
+    "number": 22,
+    "title": "Wollmäuse und Kuhpuppen",
+    "originalTitle": "My Doctor Has a Cow Puppet",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep22",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e23",
+    "season": 1,
+    "number": 23,
+    "title": "Wie die Büffel",
+    "originalTitle": "Just Like Buffalo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep23",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s1e24",
+    "season": 1,
+    "number": 24,
+    "title": "Spüren Sie meinen Finger?",
+    "originalTitle": "Can You Feel My Finger?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_1#ep24",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e1",
+    "season": 2,
+    "number": 1,
+    "title": "Weiche von mir, Mary Poppins",
+    "originalTitle": "Back Off, Mary Poppins",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep25",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e2",
+    "season": 2,
+    "number": 2,
+    "title": "Ist das meine Hose?",
+    "originalTitle": "Enjoy Those Garlic Balls",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep26",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e3",
+    "season": 2,
+    "number": 3,
+    "title": "Ich bin ein Schmetterling",
+    "originalTitle": "A Bag Full of Jawea",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep27",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e4",
+    "season": 2,
+    "number": 4,
+    "title": "Her mit Mamis BH",
+    "originalTitle": "Go Get Mommy's Bra",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep28",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e5",
+    "season": 2,
+    "number": 5,
+    "title": "Ich muss früh raus",
+    "originalTitle": "Bad News from the Clinic?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep29",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e6",
+    "season": 2,
+    "number": 6,
+    "title": "Der böse Alan",
+    "originalTitle": "The Price of Healthy Gums is Eternal Vigilance",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep30",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e7",
+    "season": 2,
+    "number": 7,
+    "title": "Ich bin eine Aztekenpriesterin",
+    "originalTitle": "A Kosher Slaughterhouse Out in Fontana",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep31",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e8",
+    "season": 2,
+    "number": 8,
+    "title": "Haben wir eine Trittleiter?",
+    "originalTitle": "Frankenstein and the Horny Villagers",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep32",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e9",
+    "season": 2,
+    "number": 9,
+    "title": "Ich kann gut mit Babys",
+    "originalTitle": "Yes, Monsignor",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep33",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e10",
+    "season": 2,
+    "number": 10,
+    "title": "Der Lachs unter meiner Bluse",
+    "originalTitle": "The Salmon Under My Sweater",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep34",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e11",
+    "season": 2,
+    "number": 11,
+    "title": "Der Busch bin ich",
+    "originalTitle": "Last Chance to See Those Tattoos",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep35",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e12",
+    "season": 2,
+    "number": 12,
+    "title": "Eine Nase voll Alan",
+    "originalTitle": "A Lungful of Alan",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep36",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e13",
+    "season": 2,
+    "number": 13,
+    "title": "Geh’ von meinen Haaren runter",
+    "originalTitle": "Zejdź z Moich Włosów (a.k.a. Get Off My Hair)",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep37",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e14",
+    "season": 2,
+    "number": 14,
+    "title": "Kein Truthahnhals für Oma",
+    "originalTitle": "Those Big Pink Things with Coconut",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep38",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e15",
+    "season": 2,
+    "number": 15,
+    "title": "Riech mal am Schirmständer",
+    "originalTitle": "Smell the Umbrella Stand",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep39",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e16",
+    "season": 2,
+    "number": 16,
+    "title": "Der vergessene Sohn",
+    "originalTitle": "Can You Eat Human Flesh with Wooden Teeth?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep40",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e17",
+    "season": 2,
+    "number": 17,
+    "title": "Lass dir die Zitrone schmecken",
+    "originalTitle": "Woo-Hoo, a Hernia Exam!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep41",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e18",
+    "season": 2,
+    "number": 18,
+    "title": "Pamela und Purzelchen",
+    "originalTitle": "It Was 'Mame,' Mom",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep42",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e19",
+    "season": 2,
+    "number": 19,
+    "title": "Der Todestoast",
+    "originalTitle": "A Low, Guttural Tongue-Flapping Noise",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep43",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e20",
+    "season": 2,
+    "number": 20,
+    "title": "Ich wollte immer einen Nacktaffen",
+    "originalTitle": "I Always Wanted a Shaved Monkey",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep44",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e21",
+    "season": 2,
+    "number": 21,
+    "title": "Wo ist die Leiche, Sir?",
+    "originalTitle": "A Sympathetic Crotch to Cry On",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep45",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e22",
+    "season": 2,
+    "number": 22,
+    "title": "Es ist kein Frauenauto!",
+    "originalTitle": "That Old Hose Bag is My Mother",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep46",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e23",
+    "season": 2,
+    "number": 23,
+    "title": "Sushi und Ketchup",
+    "originalTitle": "Squab, Squab, Squab, Squab, Squab",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep47",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s2e24",
+    "season": 2,
+    "number": 24,
+    "title": "Mein schönstes Wochenenderlebnis",
+    "originalTitle": "Does This Smell Funny to You?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_2#ep48",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e1",
+    "season": 3,
+    "number": 1,
+    "title": "Vergiss den Techniker",
+    "originalTitle": "Weekend in Bangkok with Two Olympic Gymnasts",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep49",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e2",
+    "season": 3,
+    "number": 2,
+    "title": "Donuts im Stau",
+    "originalTitle": "Principal Gallagher's Lesbian Lover",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep50",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e3",
+    "season": 3,
+    "number": 3,
+    "title": "Die tote Oma im Whirlpool",
+    "originalTitle": "Carpet Burns and a Bite Mark",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep51",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e4",
+    "season": 3,
+    "number": 4,
+    "title": "Fragen Sie einfach mich",
+    "originalTitle": "Your Dismissive Attitude Toward Boobs",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep52",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e5",
+    "season": 3,
+    "number": 5,
+    "title": "Mr. Pinky und Mr. Pipi",
+    "originalTitle": "We Called It Mr. Pinky",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep53",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e6",
+    "season": 3,
+    "number": 6,
+    "title": "Oh Gehörnter!",
+    "originalTitle": "Hi, Mr. Horned One",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep54",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e7",
+    "season": 3,
+    "number": 7,
+    "title": "Ich kann ihren Skrupel sehen",
+    "originalTitle": "Sleep Tight, Puddin' Pop",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep55",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e8",
+    "season": 3,
+    "number": 8,
+    "title": "Ich will tanzen",
+    "originalTitle": "That Voodoo That I Do Do",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep56",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e9",
+    "season": 3,
+    "number": 9,
+    "title": "Ein Witz mit Urknall",
+    "originalTitle": "Madame and Her Special Friend",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep57",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e10",
+    "season": 3,
+    "number": 10,
+    "title": "Etwas Salziges mit Biss",
+    "originalTitle": "Something Salted and Twisted",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep58",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e11",
+    "season": 3,
+    "number": 11,
+    "title": "Santas Dorf der Verdammten",
+    "originalTitle": "Santa's Village of the Damned",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep59",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e12",
+    "season": 3,
+    "number": 12,
+    "title": "Ein gewisses Ziehen",
+    "originalTitle": "That Special Tug",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep60",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e13",
+    "season": 3,
+    "number": 13,
+    "title": "Selbsterniedrigung ist ein visuelles Medium",
+    "originalTitle": "Humiliation is a Visual Medium",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep61",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e14",
+    "season": 3,
+    "number": 14,
+    "title": "Liebe ist geisteskrank",
+    "originalTitle": "Love Isn't Blind, It's Retarded",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep62",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e15",
+    "season": 3,
+    "number": 15,
+    "title": "Meine Zunge ist aus Fleisch",
+    "originalTitle": "My Tongue is Meat",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep63",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e16",
+    "season": 3,
+    "number": 16,
+    "title": "Was ist ein Quickie?",
+    "originalTitle": "Ergo, the Booty Call",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep64",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e17",
+    "season": 3,
+    "number": 17,
+    "title": "Der Jingle-Mufti",
+    "originalTitle": "The Unfortunate Little Schnauzer",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep65",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e18",
+    "season": 3,
+    "number": 18,
+    "title": "Nieren wachsen schneller nach",
+    "originalTitle": "The Spit-Covered Cobbler",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep66",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e19",
+    "season": 3,
+    "number": 19,
+    "title": "Meine Nichte sitzt im Knast",
+    "originalTitle": "Golly Moses, She's a Muffin",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep67",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e20",
+    "season": 3,
+    "number": 20,
+    "title": "Wie im Hamsterkäfig",
+    "originalTitle": "Always a Bridesmaid, Never a Burro",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep68",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e21",
+    "season": 3,
+    "number": 21,
+    "title": "Unmusikalisch und arrogant",
+    "originalTitle": "And the Plot Moistens",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep69",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e22",
+    "season": 3,
+    "number": 22,
+    "title": "Ein Mann braucht höhere Ziele",
+    "originalTitle": "Just Once with Aunt Sophie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep70",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e23",
+    "season": 3,
+    "number": 23,
+    "title": "Die Samenspende",
+    "originalTitle": "Arguments for the Quickie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep71",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s3e24",
+    "season": 3,
+    "number": 24,
+    "title": "Zwei Hochzeiten und ein Lachanfall",
+    "originalTitle": "That Pistol-Packin' Hermaphrodite",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_3#ep72",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e1",
+    "season": 4,
+    "number": 1,
+    "title": "Ich arbeite für Caligula",
+    "originalTitle": "Working for Caligula",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep73",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e2",
+    "season": 4,
+    "number": 2,
+    "title": "Wer ist Wod Katitten?",
+    "originalTitle": "Who's Vod Kanockers?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep74",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e3",
+    "season": 4,
+    "number": 3,
+    "title": "Die See ist eine harte Mutter",
+    "originalTitle": "The Sea is a Harsh Mistress",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep75",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e4",
+    "season": 4,
+    "number": 4,
+    "title": "Wo ist der blöde Hund?",
+    "originalTitle": "A Pot Smoking Monkey",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep76",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e5",
+    "season": 4,
+    "number": 5,
+    "title": "Ein guter Schläfer",
+    "originalTitle": "A Live Woman of Proven Fertility",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep77",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e6",
+    "season": 4,
+    "number": 6,
+    "title": "Ödipus",
+    "originalTitle": "Apologies for the Frivolity",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep78",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e7",
+    "season": 4,
+    "number": 7,
+    "title": "Wie Haare an feuchter Seife",
+    "originalTitle": "Repeated Blows to His Unformed Head",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep79",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e8",
+    "season": 4,
+    "number": 8,
+    "title": "Lasst die Hunde los!",
+    "originalTitle": "Release the Dogs",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep80",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e9",
+    "season": 4,
+    "number": 9,
+    "title": "Der alte Alan",
+    "originalTitle": "Corey's Been Dead for an Hour",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep81",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e10",
+    "season": 4,
+    "number": 10,
+    "title": "Leck nicht an deiner Haarbürste",
+    "originalTitle": "Kissing Abe Lincoln",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep82",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e11",
+    "season": 4,
+    "number": 11,
+    "title": "Entweihnacht",
+    "originalTitle": "Walnuts and Demerol",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep83",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e12",
+    "season": 4,
+    "number": 12,
+    "title": "Alan ist anders",
+    "originalTitle": "Castrating Sheep in Montana",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep84",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e13",
+    "season": 4,
+    "number": 13,
+    "title": "Superman und Dornröschen",
+    "originalTitle": "Don't Worry, Speed Racer",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep85",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e14",
+    "season": 4,
+    "number": 14,
+    "title": "Man fängt nie mit Blähungen an",
+    "originalTitle": "That's Summer Sausage, Not Salami",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep86",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e15",
+    "season": 4,
+    "number": 15,
+    "title": "Nadeln in den Ohren",
+    "originalTitle": "My Damn Stalker",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep87",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e16",
+    "season": 4,
+    "number": 16,
+    "title": "Auch junge Menschen sind mal verschleimt",
+    "originalTitle": "Young People Have Phlegm Too",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep88",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e17",
+    "season": 4,
+    "number": 17,
+    "title": "Tausche Rezept gegen Mutter",
+    "originalTitle": "I Merely Slept with a Commie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep89",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e18",
+    "season": 4,
+    "number": 18,
+    "title": "Die frenetische Detektivin",
+    "originalTitle": "It Never Rains in Hooterville",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep90",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e19",
+    "season": 4,
+    "number": 19,
+    "title": "Judiths Haus der Verdammten",
+    "originalTitle": "Smooth as a Ken Doll",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep91",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e20",
+    "season": 4,
+    "number": 20,
+    "title": "Ich mach bei Hochzeiten immer das Gleiche",
+    "originalTitle": "Aunt Myra Doesn't Pee a Lot",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep92",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e21",
+    "season": 4,
+    "number": 21,
+    "title": "Schwul ist cool",
+    "originalTitle": "Tucked, Taped and Gorgeous",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep93",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e22",
+    "season": 4,
+    "number": 22,
+    "title": "Schweinchen Glück",
+    "originalTitle": "Mr. McGlue's Feedbag",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep94",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e23",
+    "season": 4,
+    "number": 23,
+    "title": "Vergiss Fernando",
+    "originalTitle": "Anteaters. They're Just Crazy-Lookin'",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep95",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s4e24",
+    "season": 4,
+    "number": 24,
+    "title": "Teddy ist unser Daddy",
+    "originalTitle": "Prostitutes and Gelato",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_4#ep96",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e1",
+    "season": 5,
+    "number": 1,
+    "title": "Ziege bleibt Ziege",
+    "originalTitle": "Large Birds, Spiders and Mom",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep97",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e2",
+    "season": 5,
+    "number": 2,
+    "title": "Der Genius des Bösen",
+    "originalTitle": "Media Room Slash Dungeon",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep98",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e3",
+    "season": 5,
+    "number": 3,
+    "title": "Flibber-Flabber-Schlabber",
+    "originalTitle": "Dum Diddy Dum Diddy Doo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep99",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e4",
+    "season": 5,
+    "number": 4,
+    "title": "Eine Blondine mit Kaffee",
+    "originalTitle": "City of Great Racks",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep100",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e5",
+    "season": 5,
+    "number": 5,
+    "title": "Die üblichen Nebenwirkungen",
+    "originalTitle": "Putting Swim Fins on a Cat",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep101",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e6",
+    "season": 5,
+    "number": 6,
+    "title": "Richterin des Jahres",
+    "originalTitle": "Help Daddy Find His Toenail",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep102",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e7",
+    "season": 5,
+    "number": 7,
+    "title": "Die Schale des Anstoßes",
+    "originalTitle": "Our Leather Gear is in the Guest Room",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep103",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e8",
+    "season": 5,
+    "number": 8,
+    "title": "Wer liebt die Kinder?",
+    "originalTitle": "Is There a Mrs. Waffles?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep104",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e9",
+    "season": 5,
+    "number": 9,
+    "title": "Eng ist gut",
+    "originalTitle": "Tight's Good",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep105",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e10",
+    "season": 5,
+    "number": 10,
+    "title": "Der Frauendieb",
+    "originalTitle": "Kinda Like Necrophilia",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep106",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e11",
+    "season": 5,
+    "number": 11,
+    "title": "Potpourri und Pfefferspray",
+    "originalTitle": "Meander to Your Dander",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep107",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e12",
+    "season": 5,
+    "number": 12,
+    "title": "Die Elefantenpille",
+    "originalTitle": "A Little Clammy and None Too Fresh",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep108",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e13",
+    "season": 5,
+    "number": 13,
+    "title": "Säen und Ernten",
+    "originalTitle": "The Soil is Moist",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep109",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e14",
+    "season": 5,
+    "number": 14,
+    "title": "Ohne Mücken kein Beglücken",
+    "originalTitle": "Winky-Dink Time",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep110",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e15",
+    "season": 5,
+    "number": 15,
+    "title": "Der Trauerarbeiter",
+    "originalTitle": "Rough Night in Hump Junction",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep111",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e16",
+    "season": 5,
+    "number": 16,
+    "title": "Gekühlte Schmetterlinge",
+    "originalTitle": "Look at Me, Mommy, I'm Pretty",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep112",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e17",
+    "season": 5,
+    "number": 17,
+    "title": "Eine Leiche zur Hochzeit",
+    "originalTitle": "Fish in a Drawer",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep113",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e18",
+    "season": 5,
+    "number": 18,
+    "title": "Allein, inkontinent und ungeliebt",
+    "originalTitle": "If My Hole Could Talk",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep114",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s5e19",
+    "season": 5,
+    "number": 19,
+    "title": "Die Mutterfigur",
+    "originalTitle": "Waiting for the Right Snapper",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_5#ep115",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e1",
+    "season": 6,
+    "number": 1,
+    "title": "Das Wunschkind",
+    "originalTitle": "Taterhead is Our Love Child",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep116",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e2",
+    "season": 6,
+    "number": 2,
+    "title": "Ich hätte einen Affen nehmen sollen",
+    "originalTitle": "Pie Hole, Herb",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep117",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e3",
+    "season": 6,
+    "number": 3,
+    "title": "Rührei",
+    "originalTitle": "Damn You, Eggs Benedict",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep118",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e4",
+    "season": 6,
+    "number": 4,
+    "title": "Knall und Fall",
+    "originalTitle": "The Flavin' and the Mavin'",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep119",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e5",
+    "season": 6,
+    "number": 5,
+    "title": "Schuld und Sühne",
+    "originalTitle": "A Jock Strap in Hell",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep120",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e6",
+    "season": 6,
+    "number": 6,
+    "title": "Der Herr im Haus",
+    "originalTitle": "It's Always Nazi Week",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep121",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e7",
+    "season": 6,
+    "number": 7,
+    "title": "Alles einsteigen",
+    "originalTitle": "Best H.O. Money Can Buy",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep122",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e8",
+    "season": 6,
+    "number": 8,
+    "title": "Pinocchios Mund",
+    "originalTitle": "Pinocchio's Mouth",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep123",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e9",
+    "season": 6,
+    "number": 9,
+    "title": "Mali-Buh",
+    "originalTitle": "The Mooch at the Boo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep124",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e10",
+    "season": 6,
+    "number": 10,
+    "title": "Der Schwachkopf kriegt ein Auto",
+    "originalTitle": "He Smelled the Ham, He Got Excited",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep125",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e11",
+    "season": 6,
+    "number": 11,
+    "title": "Ein Sarg ist keine Sonnenbank",
+    "originalTitle": "The Devil's Lube",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep126",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e12",
+    "season": 6,
+    "number": 12,
+    "title": "Sie können jederzeit rein",
+    "originalTitle": "Thank God for Scoliosis",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep127",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e13",
+    "season": 6,
+    "number": 13,
+    "title": "Ponies und Einhörner",
+    "originalTitle": "I Think You Offended Don",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep128",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e14",
+    "season": 6,
+    "number": 14,
+    "title": "Ein pedantischer, selbstgefälliger Musterknabe",
+    "originalTitle": "David Copperfield Slipped Me a Roofie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep129",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e15",
+    "season": 6,
+    "number": 15,
+    "title": "Fangen wir mit der Katze an",
+    "originalTitle": "I'd Like to Start with the Cat",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep130",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e16",
+    "season": 6,
+    "number": 16,
+    "title": "Wohin mit Wanda?",
+    "originalTitle": "She'll Still Be Dead at Halftime",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep131",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e17",
+    "season": 6,
+    "number": 17,
+    "title": "Der Herr der Ringe",
+    "originalTitle": "The 'Ocu' or the 'Pado'?",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep132",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e18",
+    "season": 6,
+    "number": 18,
+    "title": "Der Schwellkopf meines Sohnes",
+    "originalTitle": "My Son's Enormous Head",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep133",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e19",
+    "season": 6,
+    "number": 19,
+    "title": "Die Zwei-Finger-Regel",
+    "originalTitle": "The Two Finger Rule",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep134",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e20",
+    "season": 6,
+    "number": 20,
+    "title": "Alan Cousteau",
+    "originalTitle": "Hello, I am Alan Cousteau",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep135",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e21",
+    "season": 6,
+    "number": 21,
+    "title": "Eine klebrige Beziehung",
+    "originalTitle": "Above Exalted Cyclops",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep136",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e22",
+    "season": 6,
+    "number": 22,
+    "title": "Katzenklo",
+    "originalTitle": "Sir Lancelot's Litter Box",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep137",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e23",
+    "season": 6,
+    "number": 23,
+    "title": "Der Bauchredner",
+    "originalTitle": "Good Morning, Mrs. Butterworth",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep138",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s6e24",
+    "season": 6,
+    "number": 24,
+    "title": "Plötzlich ein greller Blitz",
+    "originalTitle": "Baseball Was Better with Steroids",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_6#ep139",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e1",
+    "season": 7,
+    "number": 1,
+    "title": "Oxofrmbl",
+    "originalTitle": "818-jklpuzo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep140",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e2",
+    "season": 7,
+    "number": 2,
+    "title": "Stark und durchsetzungsfähig",
+    "originalTitle": "Whipped Unto the Third Generation",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep141",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e3",
+    "season": 7,
+    "number": 3,
+    "title": "Hm, Fisch, den fress ich",
+    "originalTitle": "Mmm, Fish. Yum.",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep142",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e4",
+    "season": 7,
+    "number": 4,
+    "title": "Hundeentwurmer, Pferdebesamer",
+    "originalTitle": "Laxative Tester, Horse Inseminator",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep143",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e5",
+    "season": 7,
+    "number": 5,
+    "title": "Der kleine Furzmeister",
+    "originalTitle": "For the Sake of the Child",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep144",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e6",
+    "season": 7,
+    "number": 6,
+    "title": "Brustfrust",
+    "originalTitle": "Give Me Your Thumb",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep145",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e7",
+    "season": 7,
+    "number": 7,
+    "title": "Die reine Unbeschmutztheit",
+    "originalTitle": "Untainted by Filth",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep146",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e8",
+    "season": 7,
+    "number": 8,
+    "title": "Sabber, Lechz, Schmacht",
+    "originalTitle": "Gorp. Fnark. Schmegle.",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep147",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e9",
+    "season": 7,
+    "number": 9,
+    "title": "Die haarähnliche Substanz",
+    "originalTitle": "Captain Terry's Spray-On Hair",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep148",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e10",
+    "season": 7,
+    "number": 10,
+    "title": "Eiertanz",
+    "originalTitle": "That's Why They Call It Ball Room",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep149",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e11",
+    "season": 7,
+    "number": 11,
+    "title": "Fest der Liebe",
+    "originalTitle": "Warning, It's Dirty",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep150",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e12",
+    "season": 7,
+    "number": 12,
+    "title": "Furzwitze, Torte und Celeste",
+    "originalTitle": "Fart Jokes, Pie and Celeste",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep151",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e13",
+    "season": 7,
+    "number": 13,
+    "title": "Keine Polypen",
+    "originalTitle": "Yay, No Polyps!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep152",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e14",
+    "season": 7,
+    "number": 14,
+    "title": "Der Familien-Rottweiler – Teil 1",
+    "originalTitle": "Crude and Uncalled For",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep153",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e15",
+    "season": 7,
+    "number": 15,
+    "title": "Charlies Engel – Teil 2",
+    "originalTitle": "Aye, Aye, Captain Douche",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep154",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e16",
+    "season": 7,
+    "number": 16,
+    "title": "Der Kirchenbesuch",
+    "originalTitle": "Tinkle Like a Princess",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep155",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e17",
+    "season": 7,
+    "number": 17,
+    "title": "Ich habe deinen Schnurrbart gefunden",
+    "originalTitle": "I Found Your Moustache",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep156",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e18",
+    "season": 7,
+    "number": 18,
+    "title": "Hopp, auf den Tisch",
+    "originalTitle": "Ixnay on the Oggie Day",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep157",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e19",
+    "season": 7,
+    "number": 19,
+    "title": "Superdad",
+    "originalTitle": "Keith Moon is Vomiting in His Grave",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep158",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e20",
+    "season": 7,
+    "number": 20,
+    "title": "Austern mit Erdbeeren",
+    "originalTitle": "I Called Him Magoo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep159",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e21",
+    "season": 7,
+    "number": 21,
+    "title": "Die Standuhr",
+    "originalTitle": "Gumby with a Pokey",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep160",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s7e22",
+    "season": 7,
+    "number": 22,
+    "title": "Das wird kein gutes Ende nehmen",
+    "originalTitle": "This is Not Gonna End Well",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_7#ep161",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e1",
+    "season": 8,
+    "number": 1,
+    "title": "Tubensahne",
+    "originalTitle": "Three Girls and a Guy Named Bud",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep162",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e2",
+    "season": 8,
+    "number": 2,
+    "title": "Eine Flasche Wein und ein Presslufthammer",
+    "originalTitle": "A Bottle of Wine and a Jackhammer",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep163",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e3",
+    "season": 8,
+    "number": 3,
+    "title": "Feuer und Flamme",
+    "originalTitle": "A Pudding-Filled Cactus",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep164",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e4",
+    "season": 8,
+    "number": 4,
+    "title": "Nutten, Nutten, Nutten",
+    "originalTitle": "Hookers, Hookers, Hookers",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep165",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e5",
+    "season": 8,
+    "number": 5,
+    "title": "Die Mumie schlägt zurück",
+    "originalTitle": "The Immortal Mr. Billy Joel",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep166",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e6",
+    "season": 8,
+    "number": 6,
+    "title": "Oberflächlich, eitel und seicht",
+    "originalTitle": "Twanging Your Magic Clanger",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep167",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e7",
+    "season": 8,
+    "number": 7,
+    "title": "Verrückte Weiber",
+    "originalTitle": "The Crazy Bitch Gazette",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep168",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e8",
+    "season": 8,
+    "number": 8,
+    "title": "Wolkenstürmer am Stiel",
+    "originalTitle": "Springtime on a Stick",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep169",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e9",
+    "season": 8,
+    "number": 9,
+    "title": "Schöne Stunden in Zentralafrika",
+    "originalTitle": "A Good Time in Central Africa",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep170",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e10",
+    "season": 8,
+    "number": 10,
+    "title": "Die japanische Regenbrille",
+    "originalTitle": "Ow, Ow, Don't Stop",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep171",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e11",
+    "season": 8,
+    "number": 11,
+    "title": "Von der Hüfte abwärts tot",
+    "originalTitle": "Dead from the Waist Down",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep172",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e12",
+    "season": 8,
+    "number": 12,
+    "title": "Der Mann ohne Freunde",
+    "originalTitle": "Chocolate Diddlers or My Puppy's Dead",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep173",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e13",
+    "season": 8,
+    "number": 13,
+    "title": "Stinktier, Ketchup und Hundekacke",
+    "originalTitle": "Skunk, Dog, Crap and Ketchup",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep174",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e14",
+    "season": 8,
+    "number": 14,
+    "title": "Der menschliche Vulkan",
+    "originalTitle": "Lookin' for Japanese Subs",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep175",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e15",
+    "season": 8,
+    "number": 15,
+    "title": "Still und steif",
+    "originalTitle": "Three Hookers and a Philly Cheesesteak",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep176",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s8e16",
+    "season": 8,
+    "number": 16,
+    "title": "Dein Mann ist eine Puppe",
+    "originalTitle": "That Darn Priest",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_8#ep177",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e1",
+    "season": 9,
+    "number": 1,
+    "title": "Sehr erfreut, Walden Schmidt",
+    "originalTitle": "Nice to Meet You, Walden Schmidt",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep178",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e2",
+    "season": 9,
+    "number": 2,
+    "title": "Peter Pans Mutter",
+    "originalTitle": "People Who Love Peepholes",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep179",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e3",
+    "season": 9,
+    "number": 3,
+    "title": "Herpes Junior",
+    "originalTitle": "Big Girls Don't Throw Food",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep180",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e4",
+    "season": 9,
+    "number": 4,
+    "title": "Neun-Finger-Daddy",
+    "originalTitle": "Nine Magic Fingers",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep181",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e5",
+    "season": 9,
+    "number": 5,
+    "title": "Riesenkatze mit Halsreif",
+    "originalTitle": "A Giant Cat Holding a Churro",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep182",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e6",
+    "season": 9,
+    "number": 6,
+    "title": "Die Schwulennummer",
+    "originalTitle": "The Squat and the Hover",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep183",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e7",
+    "season": 9,
+    "number": 7,
+    "title": "Das Tagebuch",
+    "originalTitle": "Those Fancy Japanese Toilets",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep184",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e8",
+    "season": 9,
+    "number": 8,
+    "title": "Danke für den Geschlechtsverkehr",
+    "originalTitle": "Thank You for the Intercourse",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep185",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e9",
+    "season": 9,
+    "number": 9,
+    "title": "Frodos Autogrammkarten",
+    "originalTitle": "Frodo's Headshots",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep186",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e10",
+    "season": 9,
+    "number": 10,
+    "title": "Ein Fischglas voller Glasaugen",
+    "originalTitle": "A Fishbowl Full of Glass Eyes",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep187",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e11",
+    "season": 9,
+    "number": 11,
+    "title": "Die Lückenbüßerin",
+    "originalTitle": "What a Lovely Landing Strip",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep188",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e12",
+    "season": 9,
+    "number": 12,
+    "title": "Eine falsche Bewegung, Zimbabwe!",
+    "originalTitle": "One False Move, Zimbabwe!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep189",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e13",
+    "season": 9,
+    "number": 13,
+    "title": "Jahre voller Einsamkeit und Yoga",
+    "originalTitle": "Slowly and in a Circular Fashion",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep190",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e14",
+    "season": 9,
+    "number": 14,
+    "title": "Ein Opossum auf Chemo",
+    "originalTitle": "A Possum on Chemo",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep191",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e15",
+    "season": 9,
+    "number": 15,
+    "title": "Der fleischliche Pausenfüller",
+    "originalTitle": "The Duchess of Dull-in-Sack",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep192",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e16",
+    "season": 9,
+    "number": 16,
+    "title": "Das böse Lachen",
+    "originalTitle": "Sips, Sonnets and Sodomy",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep193",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e17",
+    "season": 9,
+    "number": 17,
+    "title": "Nicht in meinen Mund!",
+    "originalTitle": "Not in My Mouth!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep194",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e18",
+    "season": 9,
+    "number": 18,
+    "title": "Das Zahnfleisch eines Zwanzigjährigen",
+    "originalTitle": "The War Against Gingivitis",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep195",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e19",
+    "season": 9,
+    "number": 19,
+    "title": "Der Ding-Shop",
+    "originalTitle": "Palmdale, Ech",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep196",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e20",
+    "season": 9,
+    "number": 20,
+    "title": "Ein Tässchen Tee",
+    "originalTitle": "Grandma's Pie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep197",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e21",
+    "season": 9,
+    "number": 21,
+    "title": "Mir ist langweilig",
+    "originalTitle": "Mr. Hose Says 'Yes'",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep198",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e22",
+    "season": 9,
+    "number": 22,
+    "title": "Warum wir nichts von Frauen wollen",
+    "originalTitle": "Why We Gave Up Women",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep199",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e23",
+    "season": 9,
+    "number": 23,
+    "title": "Alle lieben Alan",
+    "originalTitle": "The Straw in My Donut Hole",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep200",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s9e24",
+    "season": 9,
+    "number": 24,
+    "title": "Die Superchance",
+    "originalTitle": "Oh Look! Al-Qaeda!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_9#ep201",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e1",
+    "season": 10,
+    "number": 1,
+    "title": "Ich bin wie Reizhusten",
+    "originalTitle": "I Changed My Mind About the Milk",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep202",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e2",
+    "season": 10,
+    "number": 2,
+    "title": "Her mit deiner Hose",
+    "originalTitle": "A Big Bag of Dog",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep203",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e3",
+    "season": 10,
+    "number": 3,
+    "title": "Der Trauer-Dreier",
+    "originalTitle": "Four Balls, Two Bats and One Mitt",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep204",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e4",
+    "season": 10,
+    "number": 4,
+    "title": "Ein hübsches Kind",
+    "originalTitle": "You Do Know What the Lollipop's For",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep205",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e5",
+    "season": 10,
+    "number": 5,
+    "title": "Hinterlistig und verschlagen",
+    "originalTitle": "That's Not What They Call It in Amsterdam",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep206",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e6",
+    "season": 10,
+    "number": 6,
+    "title": "Frettchen, fass!",
+    "originalTitle": "Ferrets, Attack!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep207",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e7",
+    "season": 10,
+    "number": 7,
+    "title": "Die Menschenflüsterin",
+    "originalTitle": "Avoid the Chinese Mustard",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep208",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e8",
+    "season": 10,
+    "number": 8,
+    "title": "Arm aber schön",
+    "originalTitle": "Something My Gynecologist Said",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep209",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e9",
+    "season": 10,
+    "number": 9,
+    "title": "Die Paparazzi-Falle",
+    "originalTitle": "I Scream When I Pee",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep210",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e10",
+    "season": 10,
+    "number": 10,
+    "title": "Ein-Ei-Johnson",
+    "originalTitle": "One Nut Johnson",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep211",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e11",
+    "season": 10,
+    "number": 11,
+    "title": "Der Baumverkäufer",
+    "originalTitle": "Give Santa a Tail-Hole",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep212",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e12",
+    "season": 10,
+    "number": 12,
+    "title": "Willkommen auf Alancrest",
+    "originalTitle": "Welcome to Alancrest",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep213",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e13",
+    "season": 10,
+    "number": 13,
+    "title": "Das Leben ist kein Musical",
+    "originalTitle": "Grab a Feather and Get in Line",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep214",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e14",
+    "season": 10,
+    "number": 14,
+    "title": "Wer hat in meinen Busch gepinkelt?",
+    "originalTitle": "Run, Steven Staven! Run!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep215",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e15",
+    "season": 10,
+    "number": 15,
+    "title": "Tattoo-Tata",
+    "originalTitle": "Paint It, Pierce It or Plug It",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep216",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e16",
+    "season": 10,
+    "number": 16,
+    "title": "Vorteil: Fettes, fliegendes Baby",
+    "originalTitle": "Advantage: Fat, Flying Baby",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep217",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e17",
+    "season": 10,
+    "number": 17,
+    "title": "Mittelschul-Mysterien",
+    "originalTitle": "Throgwarten Middle School Mysteries",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep218",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e18",
+    "season": 10,
+    "number": 18,
+    "title": "Neun Uhr vier von Pemberton",
+    "originalTitle": "The 9:04 from Pemberton",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep219",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e19",
+    "season": 10,
+    "number": 19,
+    "title": "Tragen Schafe Lippenstift?",
+    "originalTitle": "Big Episode. Someone Stole a Spoon",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep220",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e20",
+    "season": 10,
+    "number": 20,
+    "title": "Mund weg von meiner Tochter",
+    "originalTitle": "Bazinga! That's from a TV Show",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep221",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e21",
+    "season": 10,
+    "number": 21,
+    "title": "Noch eine Nacht mit Neil Diamond",
+    "originalTitle": "Another Night with Neil Diamond",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep222",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e22",
+    "season": 10,
+    "number": 22,
+    "title": "Die Unterwäsche der Stars",
+    "originalTitle": "My Bodacious Vidalia",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep223",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s10e23",
+    "season": 10,
+    "number": 23,
+    "title": "Backen mit Oma",
+    "originalTitle": "Cows, Prepare to Be Tipped",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_10#ep224",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e1",
+    "season": 11,
+    "number": 1,
+    "title": "Charlies Tochter",
+    "originalTitle": "Nangnangnangnang",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep225",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e2",
+    "season": 11,
+    "number": 2,
+    "title": "Buddha lugt aus seinem Tempel",
+    "originalTitle": "I Think I Banged Lucille Ball",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep226",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e3",
+    "season": 11,
+    "number": 3,
+    "title": "Pech mit der Perle",
+    "originalTitle": "This Unblessed Biscuit",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep227",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e4",
+    "season": 11,
+    "number": 4,
+    "title": "Strip Poker",
+    "originalTitle": "Clank, Clank, Drunken Skank",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep228",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e5",
+    "season": 11,
+    "number": 5,
+    "title": "Alan Harper, Frauenbeglücker",
+    "originalTitle": "Alan Harper, Pleasing Women Since 2003",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep229",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e6",
+    "season": 11,
+    "number": 6,
+    "title": "Wonder Woman",
+    "originalTitle": "Justice in Star-Spangled Hot Pants",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep230",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e7",
+    "season": 11,
+    "number": 7,
+    "title": "Mein erstes Mal",
+    "originalTitle": "Some Kind of Lesbian Zombie",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep231",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e8",
+    "season": 11,
+    "number": 8,
+    "title": "Der listige Larry",
+    "originalTitle": "Mr. Walden, He Die. I Clean Room.",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep232",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e9",
+    "season": 11,
+    "number": 9,
+    "title": "Hals- und Beinbruch",
+    "originalTitle": "Numero Uno Accidente Lawyer",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep233",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e10",
+    "season": 11,
+    "number": 10,
+    "title": "Feuchtfröhliche Weihnacht",
+    "originalTitle": "On Vodka, on Soda, on Blender, on Mixer!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep234",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e11",
+    "season": 11,
+    "number": 11,
+    "title": "Ein Eissandwich im Ofen",
+    "originalTitle": "Tazed in the Lady Nuts",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep235",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e12",
+    "season": 11,
+    "number": 12,
+    "title": "Baseball. Busen. Busen. Baseball.",
+    "originalTitle": "Baseball. Boobs. Boobs. Baseball.",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep236",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e13",
+    "season": 11,
+    "number": 13,
+    "title": "Tot, tot, Koma, Florida",
+    "originalTitle": "Bite Me, Supreme Court",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep237",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e14",
+    "season": 11,
+    "number": 14,
+    "title": "Ein ganzer Kerl",
+    "originalTitle": "Three Fingers of Crème de Menthe",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep238",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e15",
+    "season": 11,
+    "number": 15,
+    "title": "Der Resteverwerter der Liebe",
+    "originalTitle": "Cab Fare and a Bottle of Penicillin",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep239",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e16",
+    "season": 11,
+    "number": 16,
+    "title": "Wie man Alan Harper los wird",
+    "originalTitle": "How to Get Rid of Alan Harper",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep240",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e17",
+    "season": 11,
+    "number": 17,
+    "title": "Willkommen zuhause, Jake",
+    "originalTitle": "Welcome Home, Jake",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep241",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e18",
+    "season": 11,
+    "number": 18,
+    "title": "West Side Story",
+    "originalTitle": "West Side Story",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep242",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e19",
+    "season": 11,
+    "number": 19,
+    "title": "Darf ich aus ihrem Schlauch trinken",
+    "originalTitle": "Lan Mao Shi Zai Wuding Shang",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep243",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e20",
+    "season": 11,
+    "number": 20,
+    "title": "Therapie am Ozean",
+    "originalTitle": "Lotta Delis in Little Armenia",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep244",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e21",
+    "season": 11,
+    "number": 21,
+    "title": "Wer ist Alan Harper?",
+    "originalTitle": "Dial 1-900-MIX-A-LOT",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep245",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s11e22",
+    "season": 11,
+    "number": 22,
+    "title": "Mit Waldi in die Zukunft",
+    "originalTitle": "Oh WALD-E, Good Times Ahead",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_11#ep246",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e1",
+    "season": 12,
+    "number": 1,
+    "title": "Der Heiratsantrag",
+    "originalTitle": "The Ol' Mexican Spinach",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep247",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e2",
+    "season": 12,
+    "number": 2,
+    "title": "Hochzeit auf Ibiza",
+    "originalTitle": "A Chic Bar in Ibiza",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep248",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e3",
+    "season": 12,
+    "number": 3,
+    "title": "Das Traumpaar",
+    "originalTitle": "Glamping in a Yurt",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep249",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e4",
+    "season": 12,
+    "number": 4,
+    "title": "Zehn Finger, zehn Zehen",
+    "originalTitle": "Thirty-Eight, Sixty-Two, Thirty-Eight",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep250",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e5",
+    "season": 12,
+    "number": 5,
+    "title": "Willkommen in Malibu",
+    "originalTitle": "Oontz. Oontz. Oontz.",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep251",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e6",
+    "season": 12,
+    "number": 6,
+    "title": "Alan hat ein Kind erschossen",
+    "originalTitle": "Alan Shot a Little Girl",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep252",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e7",
+    "season": 12,
+    "number": 7,
+    "title": "Die sieben Zwerge des Ekels",
+    "originalTitle": "Sex with an Animated Ed Asner",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep253",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e8",
+    "season": 12,
+    "number": 8,
+    "title": "Hier kommt der Weihnachtsmann",
+    "originalTitle": "Family, Bublé, Deep-Fried Turkey",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep254",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e9",
+    "season": 12,
+    "number": 9,
+    "title": "Mütter an der Kletterwand",
+    "originalTitle": "Bouncy, Bouncy, Bouncy, Lyndsey",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep255",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e10",
+    "season": 12,
+    "number": 10,
+    "title": "Sei stark, Wonder Woman!",
+    "originalTitle": "Here I Come, Pants!",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep256",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e11",
+    "season": 12,
+    "number": 11,
+    "title": "Die Männergruppe",
+    "originalTitle": "For Whom the Booty Calls",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep257",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e12",
+    "season": 12,
+    "number": 12,
+    "title": "Alans gefährliche Liebschaften",
+    "originalTitle": "A Beer-Battered Rip-Off",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep258",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e13",
+    "season": 12,
+    "number": 13,
+    "title": "Opa stand auf Nutten",
+    "originalTitle": "Boompa Loved His Hookers",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep259",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e14",
+    "season": 12,
+    "number": 14,
+    "title": "Ich bin eine Prinzessin",
+    "originalTitle": "Don't Give a Monkey a Gun",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep260",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e15",
+    "season": 12,
+    "number": 15,
+    "title": "Natürlich ist er tot (1)",
+    "originalTitle": "Of Course He’s Dead – Part One",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep261",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  },
+  {
+    "id": "s12e16",
+    "season": 12,
+    "number": 16,
+    "title": "Natürlich ist er tot (2)",
+    "originalTitle": "Of Course He’s Dead – Part Two",
+    "kind": "episode",
+    "source": "https://en.wikipedia.org/wiki/Two_and_a_Half_Men_season_12#ep261",
+    "counts": {
+      "easy": 4,
+      "medium": 4,
+      "hard": 5
+    },
+    "ready": true
+  }
+]

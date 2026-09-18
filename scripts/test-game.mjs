@@ -1,0 +1,26 @@
+import assert from 'node:assert/strict';
+import {build} from 'esbuild';
+await build({entryPoints:['lib/game.ts'],bundle:true,platform:'node',format:'esm',outfile:'.source-cache/test-game-bundle.mjs'});
+const {questions,questionMap,validateSettings,begin,guess,view,phase,normalize,TTL}=await import('../.source-cache/test-game-bundle.mjs?'+Date.now());
+const settings=validateSettings({mode:'multi',category:'characters',difficulty:'all',season:-1,episode:'',rounds:5,duration:15,specials:true});
+const now=Date.now(),player={id:'a',secret:'private',name:'Cartman',score:0,roundScore:0,answers:{},lastSeen:now,active:true};
+const room={code:'ABC234',settings,players:[player],host:'a',started:0,deck:[],created:now,lastActive:now,game:0,gamesPlayed:0,used:[]};
+begin(room,now);assert.equal(phase(room,now).status,'countdown');assert.equal(room.deck.length,5);assert.equal(new Set(room.deck.map(x=>x.id)).size,5);
+const t=room.started+1000,slot=room.deck[0],q=questionMap.get(slot.id);const answer=slot.choices.length?String(slot.choices.indexOf(q.answer)):q.answer;
+const hidden=view(room,player,t);assert.equal(hidden.answer,null);assert(!JSON.stringify(hidden).includes('private'));assert(!('deck' in hidden));
+const originalPrompt=q.prompt,originalAnswer=q.answer;
+q.prompt='Changed after this game started';q.answer='Changed answer';
+const restored=JSON.parse(JSON.stringify(room));
+assert.equal(view(restored,restored.players[0],t).question.prompt,originalPrompt,'persisted question survives catalogue changes');
+assert.equal(view(restored,restored.players[0],room.started+15000).answer.text,originalAnswer,'persisted solution survives catalogue changes');
+q.prompt=originalPrompt;q.answer=originalAnswer;
+const result=guess(room,player,{answer,index:0,game:room.game},t);assert(result.correct);assert(result.points>=100);assert.equal(player.score,result.points);
+assert.throws(()=>guess(room,player,{answer,index:0,game:room.game},t+1),/alreadyAnswered/);
+assert.throws(()=>guess(room,player,{answer,index:1,game:room.game},t+1),/roundClosed/);
+assert.equal(view(room,player,room.started+15000).answer.text,q.answer);
+const finished=room.started+5*22000;assert.equal(phase(room,finished).status,'finished');const previousScore=player.score,previousIds=room.deck.map(x=>x.id);begin(room,finished+1);assert.equal(player.score,previousScore);assert.equal(player.roundScore,0);assert(!room.deck.some(x=>previousIds.includes(x.id)));assert.equal(room.game,2);
+assert.equal(normalize('MÜTZE, groß!'),normalize('mutze gross'));assert.equal(TTL,86400000);
+const expiration=room.lastActive+TTL;view(room,player,expiration-1);assert.equal(room.lastActive+TTL,expiration,'passive reads must not extend expiry');
+assert.throws(()=>validateSettings({...settings,rounds:999}),/invalidSettings/);
+for(const q of questions){assert(q.prompt&&q.answer&&q.source.startsWith('https://'),q.id+' source');if(q.choices.length){assert.equal(q.choices.length,4,q.id);assert.equal(new Set(q.choices.map(normalize)).size,4,q.id+' duplicate options');assert(q.choices.includes(q.answer),q.id);}}
+console.log('PASS: countdown, deadlines, hidden solutions, answer-once, scoring, rematch totals, no repeats, normalization, passive TTL, settings and question integrity.');

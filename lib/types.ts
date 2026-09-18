@@ -1,0 +1,6 @@
+export type Difficulty='easy'|'medium'|'hard';
+export type Settings={mode:'solo'|'multi';category:'mixed'|'episodes'|'characters';difficulty:'all'|Difficulty;season:number;episode:string;rounds:number;duration:number;specials:boolean};
+export type Question={id:string;episodeId:string;category:'episodes'|'characters';difficulty:Difficulty;answerKind?:'character'|'text';prompt:string;answer:string;aliases:string[];choices:string[];explanation:string;source:string;review:'authored'|'generated';en?:{prompt:string;answer:string;choices:string[];explanation:string}};
+export type CatalogEntry={id:string;season:number;number:number;title:string;originalTitle:string;kind:string;source:string;counts:Record<Difficulty,number>;ready:boolean};
+export type PublicPlayer={id:string;name:string;score:number;roundScore:number;answered:boolean;active:boolean};
+export type GameView={code:string;settings:Settings;host:string;me:string;serverTime:number;expires:number;status:'lobby'|'countdown'|'playing'|'reveal'|'finished';index:number;round:number;game:number;remaining:number;end:number;nextAt:number;players:PublicPlayer[];question:null|{prompt:string;choices:string[];difficulty:Difficulty;episode:string;review:string};answer:null|{text:string;explanation:string;source:string};result:null|{choice:string;correct:boolean;points:number};gamesPlayed:number};

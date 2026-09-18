@@ -1,0 +1,2391 @@
+[
+  {
+    "id": "character-1",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer ist Jakes Vater?",
+    "answer": "Alan Harper",
+    "aliases": [],
+    "choices": [
+      "Alan Harper",
+      "Charlie Harper",
+      "Herb Melnick",
+      "Marty Pepper"
+    ],
+    "explanation": "Alan Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who is Jake’s father?",
+      "answer": "Alan Harper",
+      "choices": [
+        "Alan Harper",
+        "Charlie Harper",
+        "Herb Melnick",
+        "Marty Pepper"
+      ],
+      "explanation": "Alan Harper."
+    }
+  },
+  {
+    "id": "character-2",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wie heißt die Haushälterin im Strandhaus?",
+    "answer": "Berta",
+    "aliases": [],
+    "choices": [
+      "Berta",
+      "Judith Harper",
+      "Chelsea Melini",
+      "Jenny Harper"
+    ],
+    "explanation": "Berta.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of the beach house’s housekeeper?",
+      "answer": "Berta",
+      "choices": [
+        "Berta",
+        "Judith Harper",
+        "Chelsea Melini",
+        "Jenny Harper"
+      ],
+      "explanation": "Berta."
+    }
+  },
+  {
+    "id": "character-3",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer ist Alans älterer Bruder?",
+    "answer": "Charlie Harper",
+    "aliases": [],
+    "choices": [
+      "Charlie Harper",
+      "Walden Schmidt",
+      "Gordon",
+      "Larry Martin"
+    ],
+    "explanation": "Charlie Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who is Alan’s older brother?",
+      "answer": "Charlie Harper",
+      "choices": [
+        "Charlie Harper",
+        "Walden Schmidt",
+        "Gordon",
+        "Larry Martin"
+      ],
+      "explanation": "Charlie Harper."
+    }
+  },
+  {
+    "id": "character-4",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wie heißt die Mutter von Charlie und Alan?",
+    "answer": "Evelyn Harper",
+    "aliases": [],
+    "choices": [
+      "Evelyn Harper",
+      "Kandi",
+      "Bridget Schmidt",
+      "Dr. Linda Freeman"
+    ],
+    "explanation": "Evelyn Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Charlie and Alan’s mother called?",
+      "answer": "Evelyn Harper",
+      "choices": [
+        "Evelyn Harper",
+        "Kandi",
+        "Bridget Schmidt",
+        "Dr. Linda Freeman"
+      ],
+      "explanation": "Evelyn Harper."
+    }
+  },
+  {
+    "id": "character-5",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer ist Jakes Mutter?",
+    "answer": "Judith Harper",
+    "aliases": [],
+    "choices": [
+      "Judith Harper",
+      "Chelsea Melini",
+      "Jenny Harper",
+      "Melissa"
+    ],
+    "explanation": "Judith Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who is Jake’s mother?",
+      "answer": "Judith Harper",
+      "choices": [
+        "Judith Harper",
+        "Chelsea Melini",
+        "Jenny Harper",
+        "Melissa"
+      ],
+      "explanation": "Judith Harper."
+    }
+  },
+  {
+    "id": "character-6",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer übernimmt ab Staffel 9 das Strandhaus?",
+    "answer": "Walden Schmidt",
+    "aliases": [],
+    "choices": [
+      "Walden Schmidt",
+      "Gordon",
+      "Larry Martin",
+      "Sam Wilson"
+    ],
+    "explanation": "Walden Schmidt.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who takes over the beach house from season 9?",
+      "answer": "Walden Schmidt",
+      "choices": [
+        "Walden Schmidt",
+        "Gordon",
+        "Larry Martin",
+        "Sam Wilson"
+      ],
+      "explanation": "Walden Schmidt."
+    }
+  },
+  {
+    "id": "character-7",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Welche Nachbarin beobachtet Charlie besonders hartnäckig?",
+    "answer": "Rose",
+    "aliases": [],
+    "choices": [
+      "Rose",
+      "Bridget Schmidt",
+      "Dr. Linda Freeman",
+      "Ava"
+    ],
+    "explanation": "Rose.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Which neighbour persistently watches Charlie?",
+      "answer": "Rose",
+      "choices": [
+        "Rose",
+        "Bridget Schmidt",
+        "Dr. Linda Freeman",
+        "Ava"
+      ],
+      "explanation": "Rose."
+    }
+  },
+  {
+    "id": "character-8",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "Welchen Beruf übt Alan aus?",
+    "answer": "Chiropraktiker",
+    "aliases": [],
+    "choices": [
+      "Chiropraktiker",
+      "Zahnarzt",
+      "Architekt",
+      "Rechtsanwalt"
+    ],
+    "explanation": "Chiropraktiker.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Alan’s profession?",
+      "answer": "Chiropractor",
+      "choices": [
+        "Chiropractor",
+        "Dentist",
+        "Architect",
+        "Lawyer"
+      ],
+      "explanation": "Chiropractor."
+    }
+  },
+  {
+    "id": "character-9",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "Welches Instrument spielt Charlie beruflich?",
+    "answer": "Klavier",
+    "aliases": [],
+    "choices": [
+      "Klavier",
+      "Schlagzeug",
+      "Geige",
+      "Trompete"
+    ],
+    "explanation": "Klavier.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Which instrument does Charlie play professionally?",
+      "answer": "Piano",
+      "choices": [
+        "Piano",
+        "Drums",
+        "Violin",
+        "Trumpet"
+      ],
+      "explanation": "Piano."
+    }
+  },
+  {
+    "id": "character-10",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "Womit verdient Charlie zu Beginn der Serie sein Geld?",
+    "answer": "Werbejingles",
+    "aliases": [],
+    "choices": [
+      "Werbejingles",
+      "Immobilien",
+      "Videospielen",
+      "Aktienhandel"
+    ],
+    "explanation": "Werbejingles.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "How does Charlie earn his money at the start of the series?",
+      "answer": "Advertising jingles",
+      "choices": [
+        "Advertising jingles",
+        "Real estate",
+        "Video games",
+        "Stock trading"
+      ],
+      "explanation": "Advertising jingles."
+    }
+  },
+  {
+    "id": "character-11",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "In welcher Branche wird Walden reich?",
+    "answer": "Internet und Software",
+    "aliases": [],
+    "choices": [
+      "Internet und Software",
+      "Gastronomie",
+      "Musik",
+      "Sport"
+    ],
+    "explanation": "Internet und Software.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "In which industry does Walden become wealthy?",
+      "answer": "Internet and software",
+      "choices": [
+        "Internet and software",
+        "Restaurants",
+        "Music",
+        "Sports"
+      ],
+      "explanation": "Internet and software."
+    }
+  },
+  {
+    "id": "character-12",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer arbeitet als Immobilienmaklerin?",
+    "answer": "Evelyn Harper",
+    "aliases": [],
+    "choices": [
+      "Evelyn Harper",
+      "Robin Schmidt",
+      "Mia",
+      "Judith Harper"
+    ],
+    "explanation": "Evelyn Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who works as a real estate agent?",
+      "answer": "Evelyn Harper",
+      "choices": [
+        "Evelyn Harper",
+        "Robin Schmidt",
+        "Mia",
+        "Judith Harper"
+      ],
+      "explanation": "Evelyn Harper."
+    }
+  },
+  {
+    "id": "character-13",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wer wird Alans zweite Ehefrau?",
+    "answer": "Kandi",
+    "aliases": [],
+    "choices": [
+      "Kandi",
+      "Ava",
+      "Gretchen",
+      "Judith Harper"
+    ],
+    "explanation": "Kandi.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who becomes Alan’s second wife?",
+      "answer": "Kandi",
+      "choices": [
+        "Kandi",
+        "Ava",
+        "Gretchen",
+        "Judith Harper"
+      ],
+      "explanation": "Kandi."
+    }
+  },
+  {
+    "id": "character-14",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Welchen Kinderarzt heiratet Judith nach Alan?",
+    "answer": "Herb Melnick",
+    "aliases": [],
+    "choices": [
+      "Herb Melnick",
+      "Louis",
+      "Jake Harper",
+      "Gordon"
+    ],
+    "explanation": "Herb Melnick.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Which paediatrician does Judith marry after Alan?",
+      "answer": "Herb Melnick",
+      "choices": [
+        "Herb Melnick",
+        "Louis",
+        "Jake Harper",
+        "Gordon"
+      ],
+      "explanation": "Herb Melnick."
+    }
+  },
+  {
+    "id": "character-15",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wer ist die Mutter von Jakes Freund Eldridge?",
+    "answer": "Lyndsey McElroy",
+    "aliases": [],
+    "choices": [
+      "Lyndsey McElroy",
+      "Mia",
+      "Evelyn Harper",
+      "Kandi"
+    ],
+    "explanation": "Lyndsey McElroy.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who is the mother of Jake’s friend Eldridge?",
+      "answer": "Lyndsey McElroy",
+      "choices": [
+        "Lyndsey McElroy",
+        "Mia",
+        "Evelyn Harper",
+        "Kandi"
+      ],
+      "explanation": "Lyndsey McElroy."
+    }
+  },
+  {
+    "id": "character-16",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Welche Verlobte von Charlie trägt den Nachnamen Melini?",
+    "answer": "Chelsea Melini",
+    "aliases": [],
+    "choices": [
+      "Chelsea Melini",
+      "Gretchen",
+      "Judith Harper",
+      "Lyndsey McElroy"
+    ],
+    "explanation": "Chelsea Melini.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Which of Charlie’s fiancées has the surname Melini?",
+      "answer": "Chelsea Melini",
+      "choices": [
+        "Chelsea Melini",
+        "Gretchen",
+        "Judith Harper",
+        "Lyndsey McElroy"
+      ],
+      "explanation": "Chelsea Melini."
+    }
+  },
+  {
+    "id": "character-17",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Wie heißt Charlies Bühnenfigur für Kindermusik?",
+    "answer": "Charlie Waffles",
+    "aliases": [],
+    "choices": [
+      "Charlie Waffles",
+      "Charlie Pancakes",
+      "Uncle Charlie",
+      "Charlie Muffins"
+    ],
+    "explanation": "Charlie Waffles.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Charlie’s stage name for children’s music?",
+      "answer": "Charlie Waffles",
+      "choices": [
+        "Charlie Waffles",
+        "Charlie Pancakes",
+        "Uncle Charlie",
+        "Charlie Muffins"
+      ],
+      "explanation": "Charlie Waffles."
+    }
+  },
+  {
+    "id": "character-18",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Welchen Beruf hat Charlies Freundin Mia?",
+    "answer": "Balletttänzerin",
+    "aliases": [],
+    "choices": [
+      "Balletttänzerin",
+      "Polizistin",
+      "Zahnärztin",
+      "Köchin"
+    ],
+    "explanation": "Balletttänzerin.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What does Charlie’s girlfriend Mia do?",
+      "answer": "Ballet dancer",
+      "choices": [
+        "Ballet dancer",
+        "Police officer",
+        "Dentist",
+        "Chef"
+      ],
+      "explanation": "Ballet dancer."
+    }
+  },
+  {
+    "id": "character-19",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wie heißt Waldens Ex-Frau?",
+    "answer": "Bridget Schmidt",
+    "aliases": [],
+    "choices": [
+      "Bridget Schmidt",
+      "Judith Harper",
+      "Chelsea Melini",
+      "Zoey"
+    ],
+    "explanation": "Bridget Schmidt.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Walden’s ex-wife called?",
+      "answer": "Bridget Schmidt",
+      "choices": [
+        "Bridget Schmidt",
+        "Judith Harper",
+        "Chelsea Melini",
+        "Zoey"
+      ],
+      "explanation": "Bridget Schmidt."
+    }
+  },
+  {
+    "id": "character-20",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wie heißt Charlies Tochter, die ab Staffel 11 auftaucht?",
+    "answer": "Jenny Harper",
+    "aliases": [],
+    "choices": [
+      "Jenny Harper",
+      "Rose",
+      "Lyndsey McElroy",
+      "Dr. Linda Freeman"
+    ],
+    "explanation": "Jenny Harper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of Charlie’s daughter introduced in season 11?",
+      "answer": "Jenny Harper",
+      "choices": [
+        "Jenny Harper",
+        "Rose",
+        "Lyndsey McElroy",
+        "Dr. Linda Freeman"
+      ],
+      "explanation": "Jenny Harper."
+    }
+  },
+  {
+    "id": "character-21",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wie heißt Jakes Freund, dessen Mutter Alan datet?",
+    "answer": "Eldridge McElroy",
+    "aliases": [],
+    "choices": [
+      "Eldridge McElroy",
+      "Marty Pepper",
+      "Teddy Leopold",
+      "Jeff Strongman"
+    ],
+    "explanation": "Eldridge McElroy.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of Jake’s friend whose mother dates Alan?",
+      "answer": "Eldridge McElroy",
+      "choices": [
+        "Eldridge McElroy",
+        "Marty Pepper",
+        "Teddy Leopold",
+        "Jeff Strongman"
+      ],
+      "explanation": "Eldridge McElroy."
+    }
+  },
+  {
+    "id": "character-22",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wie heißt Waldens britische Freundin?",
+    "answer": "Zoey",
+    "aliases": [],
+    "choices": [
+      "Zoey",
+      "Chelsea Melini",
+      "Jenny Harper",
+      "Robin Schmidt"
+    ],
+    "explanation": "Zoey.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Walden’s British girlfriend called?",
+      "answer": "Zoey",
+      "choices": [
+        "Zoey",
+        "Chelsea Melini",
+        "Jenny Harper",
+        "Robin Schmidt"
+      ],
+      "explanation": "Zoey."
+    }
+  },
+  {
+    "id": "character-23",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wer ist die Therapeutin, die Charlie berät?",
+    "answer": "Dr. Linda Freeman",
+    "aliases": [],
+    "choices": [
+      "Dr. Linda Freeman",
+      "Lyndsey McElroy",
+      "Zoey",
+      "Ava"
+    ],
+    "explanation": "Dr. Linda Freeman.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "Who is the therapist who counsels Charlie?",
+      "answer": "Dr. Linda Freeman",
+      "choices": [
+        "Dr. Linda Freeman",
+        "Lyndsey McElroy",
+        "Zoey",
+        "Ava"
+      ],
+      "explanation": "Dr. Linda Freeman."
+    }
+  },
+  {
+    "id": "character-24",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wie heißt Alans Empfangsmitarbeiterin, mit der er eine Beziehung hat?",
+    "answer": "Melissa",
+    "aliases": [],
+    "choices": [
+      "Melissa",
+      "Bridget Schmidt",
+      "Dr. Linda Freeman",
+      "Sylvia Fishman"
+    ],
+    "explanation": "Melissa.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of Alan’s receptionist whom he dates?",
+      "answer": "Melissa",
+      "choices": [
+        "Melissa",
+        "Bridget Schmidt",
+        "Dr. Linda Freeman",
+        "Sylvia Fishman"
+      ],
+      "explanation": "Melissa."
+    }
+  },
+  {
+    "id": "character-25",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Unter welchem falschen Namen lernt Alan Larry kennen?",
+    "answer": "Jeff Strongman",
+    "aliases": [],
+    "choices": [
+      "Jeff Strongman",
+      "Teddy Leopold",
+      "Louis",
+      "Jake Harper"
+    ],
+    "explanation": "Jeff Strongman.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What false name does Alan use when he meets Larry?",
+      "answer": "Jeff Strongman",
+      "choices": [
+        "Jeff Strongman",
+        "Teddy Leopold",
+        "Louis",
+        "Jake Harper"
+      ],
+      "explanation": "Jeff Strongman."
+    }
+  },
+  {
+    "id": "character-26",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Unter welchem falschen Namen datet Walden die Designerin Kate?",
+    "answer": "Sam Wilson",
+    "aliases": [],
+    "choices": [
+      "Sam Wilson",
+      "Nathan Krunk",
+      "Charlie Harper",
+      "Walden Schmidt"
+    ],
+    "explanation": "Sam Wilson.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What false name does Walden use when dating the designer Kate?",
+      "answer": "Sam Wilson",
+      "choices": [
+        "Sam Wilson",
+        "Nathan Krunk",
+        "Charlie Harper",
+        "Walden Schmidt"
+      ],
+      "explanation": "Sam Wilson."
+    }
+  },
+  {
+    "id": "character-27",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt Waldens Mutter?",
+    "answer": "Robin Schmidt",
+    "aliases": [],
+    "choices": [
+      "Robin Schmidt",
+      "Dr. Linda Freeman",
+      "Sylvia Fishman",
+      "Berta"
+    ],
+    "explanation": "Robin Schmidt.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Walden’s mother called?",
+      "answer": "Robin Schmidt",
+      "choices": [
+        "Robin Schmidt",
+        "Dr. Linda Freeman",
+        "Sylvia Fishman",
+        "Berta"
+      ],
+      "explanation": "Robin Schmidt."
+    }
+  },
+  {
+    "id": "character-28",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt der Junge, den Walden in Staffel 12 adoptiert?",
+    "answer": "Louis",
+    "aliases": [],
+    "choices": [
+      "Louis",
+      "Jeff Strongman",
+      "Jake Harper",
+      "Eldridge McElroy"
+    ],
+    "explanation": "Louis.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of the boy Walden adopts in season 12?",
+      "answer": "Louis",
+      "choices": [
+        "Louis",
+        "Jeff Strongman",
+        "Jake Harper",
+        "Eldridge McElroy"
+      ],
+      "explanation": "Louis."
+    }
+  },
+  {
+    "id": "character-29",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt Zoeys Tochter?",
+    "answer": "Ava",
+    "aliases": [],
+    "choices": [
+      "Ava",
+      "Robin Schmidt",
+      "Gretchen",
+      "Judith Harper"
+    ],
+    "explanation": "Ava.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Zoey’s daughter called?",
+      "answer": "Ava",
+      "choices": [
+        "Ava",
+        "Robin Schmidt",
+        "Gretchen",
+        "Judith Harper"
+      ],
+      "explanation": "Ava."
+    }
+  },
+  {
+    "id": "character-30",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt der Pizzabote, der mit Rose zusammen ist?",
+    "answer": "Gordon",
+    "aliases": [],
+    "choices": [
+      "Gordon",
+      "Alan Harper",
+      "Herb Melnick",
+      "Billy Stanhope"
+    ],
+    "explanation": "Gordon.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of the pizza delivery man who dates Rose?",
+      "answer": "Gordon",
+      "choices": [
+        "Gordon",
+        "Alan Harper",
+        "Herb Melnick",
+        "Billy Stanhope"
+      ],
+      "explanation": "Gordon."
+    }
+  },
+  {
+    "id": "character-31",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt der Schauspieler, den Evelyn in den späteren Staffeln heiratet?",
+    "answer": "Marty Pepper",
+    "aliases": [],
+    "choices": [
+      "Marty Pepper",
+      "Jake Harper",
+      "Eldridge McElroy",
+      "Larry Martin"
+    ],
+    "explanation": "Marty Pepper.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of the actor Evelyn marries in the later seasons?",
+      "answer": "Marty Pepper",
+      "choices": [
+        "Marty Pepper",
+        "Jake Harper",
+        "Eldridge McElroy",
+        "Larry Martin"
+      ],
+      "explanation": "Marty Pepper."
+    }
+  },
+  {
+    "id": "character-32",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie heißt Waldens Geschäftspartner mit dem Nachnamen Stanhope?",
+    "answer": "Billy Stanhope",
+    "aliases": [],
+    "choices": [
+      "Billy Stanhope",
+      "Walden Schmidt",
+      "Gordon",
+      "Teddy Leopold"
+    ],
+    "explanation": "Billy Stanhope.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the first name of Walden’s business partner Stanhope?",
+      "answer": "Billy Stanhope",
+      "choices": [
+        "Billy Stanhope",
+        "Walden Schmidt",
+        "Gordon",
+        "Teddy Leopold"
+      ],
+      "explanation": "Billy Stanhope."
+    }
+  },
+  {
+    "id": "character-33",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Wie lautet Alans zweiter Vorname?",
+    "answer": "Jerome",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Jerome.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Alan’s middle name?",
+      "answer": "Jerome",
+      "choices": [],
+      "explanation": "Jerome."
+    }
+  },
+  {
+    "id": "character-34",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Wie lautet Charlies zweiter Vorname?",
+    "answer": "Francis",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Francis.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Charlie’s middle name?",
+      "answer": "Francis",
+      "choices": [],
+      "explanation": "Francis."
+    }
+  },
+  {
+    "id": "character-35",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Wie lautet Jakes zweiter Vorname?",
+    "answer": "David",
+    "aliases": [],
+    "choices": [],
+    "explanation": "David.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Jake’s middle name?",
+      "answer": "David",
+      "choices": [],
+      "explanation": "David."
+    }
+  },
+  {
+    "id": "character-36",
+    "episodeId": "",
+    "category": "characters",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Welchen Nachnamen trägt Lyndsey?",
+    "answer": "McElroy",
+    "aliases": [],
+    "choices": [],
+    "explanation": "McElroy.",
+    "source": "https://en.wikipedia.org/wiki/List_of_Two_and_a_Half_Men_characters",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Lyndsey’s surname?",
+      "answer": "McElroy",
+      "choices": [],
+      "explanation": "McElroy."
+    }
+  },
+  {
+    "id": "s1e1-37",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Bei wem sucht Alan nach der Trennung von Judith zunächst Unterkunft?",
+    "answer": "Charlie Harper",
+    "aliases": [],
+    "choices": [
+      "Charlie Harper",
+      "Larry Martin",
+      "Sam Wilson",
+      "Alan Harper"
+    ],
+    "explanation": "Charlie Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Alan initially turn to for a place to stay after separating from Judith?",
+      "answer": "Charlie Harper",
+      "choices": [
+        "Charlie Harper",
+        "Larry Martin",
+        "Sam Wilson",
+        "Alan Harper"
+      ],
+      "explanation": "Charlie Harper."
+    }
+  },
+  {
+    "id": "s1e1-38",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Welches Kind bringt Alan mit ins Strandhaus?",
+    "answer": "Jake Harper",
+    "aliases": [],
+    "choices": [
+      "Jake Harper",
+      "Teddy Leopold",
+      "Jeff Strongman",
+      "Alan Harper"
+    ],
+    "explanation": "Jake Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "Which child does Alan bring to the beach house?",
+      "answer": "Jake Harper",
+      "choices": [
+        "Jake Harper",
+        "Teddy Leopold",
+        "Jeff Strongman",
+        "Alan Harper"
+      ],
+      "explanation": "Jake Harper."
+    }
+  },
+  {
+    "id": "s1e1-39",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Bei welchem Kartenspiel darf Jake bei Charlie mitmachen?",
+    "answer": "Poker",
+    "aliases": [],
+    "choices": [
+      "Poker",
+      "Bridge",
+      "Skat",
+      "Blackjack"
+    ],
+    "explanation": "Poker.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "Which card game does Charlie let Jake join?",
+      "answer": "Poker",
+      "choices": [
+        "Poker",
+        "Bridge",
+        "Skat",
+        "Blackjack"
+      ],
+      "explanation": "Poker."
+    }
+  },
+  {
+    "id": "s1e1-40",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Zu wem ziehen Alan und Jake zwischenzeitlich, nachdem Alan sich über Charlie ärgert?",
+    "answer": "Evelyn Harper",
+    "aliases": [],
+    "choices": [
+      "Evelyn Harper",
+      "Jenny Harper",
+      "Melissa",
+      "Sylvia Fishman"
+    ],
+    "explanation": "Evelyn Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "Who do Alan and Jake temporarily move in with after Alan gets upset with Charlie?",
+      "answer": "Evelyn Harper",
+      "choices": [
+        "Evelyn Harper",
+        "Jenny Harper",
+        "Melissa",
+        "Sylvia Fishman"
+      ],
+      "explanation": "Evelyn Harper."
+    }
+  },
+  {
+    "id": "s1e1-41",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Für welche Frühstücksflocken singt Charlie im Piloten einen Jingle?",
+    "answer": "Maple Loops",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Maple Loops.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "Which breakfast cereal does Charlie sing a jingle for in the pilot?",
+      "answer": "Maple Loops",
+      "choices": [],
+      "explanation": "Maple Loops."
+    }
+  },
+  {
+    "id": "s1e1-42",
+    "episodeId": "s1e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Unter welchem englischen Alternativtitel ist der Pilot bekannt?",
+    "answer": "Most Chicks Won’t Eat Veal",
+    "aliases": [
+      "Most Chicks Wont Eat Veal"
+    ],
+    "choices": [],
+    "explanation": "Most Chicks Won’t Eat Veal.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Pilot",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the pilot’s alternative English title?",
+      "answer": "Most Chicks Won’t Eat Veal",
+      "choices": [],
+      "explanation": "Most Chicks Won’t Eat Veal."
+    }
+  },
+  {
+    "id": "s1e4-43",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer kündigt in dieser Folge ihren Job im Strandhaus?",
+    "answer": "Berta",
+    "aliases": [],
+    "choices": [
+      "Berta",
+      "Melissa",
+      "Sylvia Fishman",
+      "Evelyn Harper"
+    ],
+    "explanation": "Berta.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Who quits her job at the beach house in this episode?",
+      "answer": "Berta",
+      "choices": [
+        "Berta",
+        "Melissa",
+        "Sylvia Fishman",
+        "Evelyn Harper"
+      ],
+      "explanation": "Berta."
+    }
+  },
+  {
+    "id": "s1e4-44",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wessen Kritik an der Hausarbeit bringt Berta dazu zu gehen?",
+    "answer": "Alan Harper",
+    "aliases": [],
+    "choices": [
+      "Alan Harper",
+      "Jake Harper",
+      "Eldridge McElroy",
+      "Billy Stanhope"
+    ],
+    "explanation": "Alan Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Whose criticism of the housework makes Berta leave?",
+      "answer": "Alan Harper",
+      "choices": [
+        "Alan Harper",
+        "Jake Harper",
+        "Eldridge McElroy",
+        "Billy Stanhope"
+      ],
+      "explanation": "Alan Harper."
+    }
+  },
+  {
+    "id": "s1e4-45",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wer übernimmt nach Bertas Kündigung zunächst die Hausarbeit?",
+    "answer": "Alan Harper",
+    "aliases": [],
+    "choices": [
+      "Alan Harper",
+      "Walden Schmidt",
+      "Gordon",
+      "Larry Martin"
+    ],
+    "explanation": "Alan Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Who initially takes over the chores after Berta quits?",
+      "answer": "Alan Harper",
+      "choices": [
+        "Alan Harper",
+        "Walden Schmidt",
+        "Gordon",
+        "Larry Martin"
+      ],
+      "explanation": "Alan Harper."
+    }
+  },
+  {
+    "id": "s1e4-46",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Welches Getränk kann Charlie nach Bertas Abschied nicht selbst zubereiten?",
+    "answer": "Kaffee",
+    "aliases": [],
+    "choices": [
+      "Kaffee",
+      "Kakao",
+      "Tee",
+      "Limonade"
+    ],
+    "explanation": "Kaffee.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Which drink does Charlie struggle to make after Berta leaves?",
+      "answer": "Coffee",
+      "choices": [
+        "Coffee",
+        "Hot chocolate",
+        "Tea",
+        "Lemonade"
+      ],
+      "explanation": "Coffee."
+    }
+  },
+  {
+    "id": "s1e4-47",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Welcher Duft am geputzten Klavier stört Charlie?",
+    "answer": "Zitrone",
+    "aliases": [
+      "Zitronenduft",
+      "Zitronen"
+    ],
+    "choices": [],
+    "explanation": "Zitrone.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Which scent on the cleaned piano bothers Charlie?",
+      "answer": "Lemon",
+      "choices": [],
+      "explanation": "Lemon."
+    }
+  },
+  {
+    "id": "s1e4-48",
+    "episodeId": "s1e4",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Welches Fest erinnert Charlie an Bertas Kaffee?",
+    "answer": "Weihnachten",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Weihnachten.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/If_I_Can%27t_Write_My_Chocolate_Song%2C_I%27m_Going_To_Take_A_Nap",
+    "review": "authored",
+    "en": {
+      "prompt": "Which holiday does Berta’s coffee remind Charlie of?",
+      "answer": "Christmas",
+      "choices": [],
+      "explanation": "Christmas."
+    }
+  },
+  {
+    "id": "s3e24-49",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wen möchte Charlie zu Beginn der Folge heiraten?",
+    "answer": "Mia",
+    "aliases": [],
+    "choices": [
+      "Mia",
+      "Berta",
+      "Rose",
+      "Lyndsey McElroy"
+    ],
+    "explanation": "Mia.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Charlie intend to marry at the start of the episode?",
+      "answer": "Mia",
+      "choices": [
+        "Mia",
+        "Berta",
+        "Rose",
+        "Lyndsey McElroy"
+      ],
+      "explanation": "Mia."
+    }
+  },
+  {
+    "id": "s3e24-50",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wen heiratet Alan am Ende dieser Folge?",
+    "answer": "Kandi",
+    "aliases": [],
+    "choices": [
+      "Kandi",
+      "Evelyn Harper",
+      "Chelsea Melini",
+      "Jenny Harper"
+    ],
+    "explanation": "Kandi.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Alan marry at the end of this episode?",
+      "answer": "Kandi",
+      "choices": [
+        "Kandi",
+        "Evelyn Harper",
+        "Chelsea Melini",
+        "Jenny Harper"
+      ],
+      "explanation": "Kandi."
+    }
+  },
+  {
+    "id": "s3e24-51",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "In welcher Stadt soll die kleine Trauung stattfinden?",
+    "answer": "Las Vegas",
+    "aliases": [],
+    "choices": [
+      "Las Vegas",
+      "Malibu",
+      "Seattle",
+      "New York"
+    ],
+    "explanation": "Las Vegas.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "In which city is the small wedding planned?",
+      "answer": "Las Vegas",
+      "choices": [
+        "Las Vegas",
+        "Malibu",
+        "Seattle",
+        "New York"
+      ],
+      "explanation": "Las Vegas."
+    }
+  },
+  {
+    "id": "s3e24-52",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wen möchte Mia nach der Hochzeit aus dem Strandhaus haben?",
+    "answer": "Alan Harper",
+    "aliases": [],
+    "choices": [
+      "Alan Harper",
+      "Teddy Leopold",
+      "Jeff Strongman",
+      "Jake Harper"
+    ],
+    "explanation": "Alan Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Mia want to move out of the beach house after the wedding?",
+      "answer": "Alan Harper",
+      "choices": [
+        "Alan Harper",
+        "Teddy Leopold",
+        "Jeff Strongman",
+        "Jake Harper"
+      ],
+      "explanation": "Alan Harper."
+    }
+  },
+  {
+    "id": "s3e24-53",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Welches Zimmer möchte Mia anstelle von Alans Zimmer einrichten?",
+    "answer": "Kinderzimmer",
+    "aliases": [
+      "Babyzimmer"
+    ],
+    "choices": [],
+    "explanation": "Kinderzimmer.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "What kind of room does Mia want in place of Alan’s room?",
+      "answer": "Nursery",
+      "choices": [],
+      "explanation": "Nursery."
+    }
+  },
+  {
+    "id": "s3e24-54",
+    "episodeId": "s3e24",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Von wem stammt der Ring, mit dem Alan Kandi heiratet?",
+    "answer": "Charlie Harper",
+    "aliases": [],
+    "choices": [
+      "Charlie Harper",
+      "Sam Wilson",
+      "Alan Harper",
+      "Herb Melnick"
+    ],
+    "explanation": "Charlie Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/That_Pistol-Packin%27_Hermaphrodite",
+    "review": "authored",
+    "en": {
+      "prompt": "Whose wedding ring does Alan use when marrying Kandi?",
+      "answer": "Charlie Harper",
+      "choices": [
+        "Charlie Harper",
+        "Sam Wilson",
+        "Alan Harper",
+        "Herb Melnick"
+      ],
+      "explanation": "Charlie Harper."
+    }
+  },
+  {
+    "id": "s5e17-55",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Welcher frisch verheiratete Mann wird tot aufgefunden?",
+    "answer": "Teddy Leopold",
+    "aliases": [],
+    "choices": [
+      "Teddy Leopold",
+      "Jeff Strongman",
+      "Alan Harper",
+      "Herb Melnick"
+    ],
+    "explanation": "Teddy Leopold.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "Which newly married man is found dead?",
+      "answer": "Teddy Leopold",
+      "choices": [
+        "Teddy Leopold",
+        "Jeff Strongman",
+        "Alan Harper",
+        "Herb Melnick"
+      ],
+      "explanation": "Teddy Leopold."
+    }
+  },
+  {
+    "id": "s5e17-56",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "In wessen Bett wird Teddy gefunden?",
+    "answer": "Charlies Bett",
+    "aliases": [],
+    "choices": [
+      "Charlies Bett",
+      "Alans Bett",
+      "Jakes Bett",
+      "Bertas Bett"
+    ],
+    "explanation": "Charlies Bett.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "In whose bed is Teddy found?",
+      "answer": "Charlie’s bed",
+      "choices": [
+        "Charlie’s bed",
+        "Alan’s bed",
+        "Jake’s bed",
+        "Berta’s bed"
+      ],
+      "explanation": "Charlie’s bed."
+    }
+  },
+  {
+    "id": "s5e17-57",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Welche Krimiserie wird in dieser Folge parodiert?",
+    "answer": "CSI",
+    "aliases": [],
+    "choices": [
+      "CSI",
+      "Columbo",
+      "Sherlock",
+      "Bones"
+    ],
+    "explanation": "CSI.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "Which crime drama is parodied in this episode?",
+      "answer": "CSI",
+      "choices": [
+        "CSI",
+        "Columbo",
+        "Sherlock",
+        "Bones"
+      ],
+      "explanation": "CSI."
+    }
+  },
+  {
+    "id": "s5e17-58",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Was ist die tatsächliche Todesursache von Teddy?",
+    "answer": "Herzinfarkt",
+    "aliases": [],
+    "choices": [
+      "Herzinfarkt",
+      "Vergiftung",
+      "Ertrinken",
+      "Sturz von der Treppe"
+    ],
+    "explanation": "Herzinfarkt.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Teddy’s actual cause of death?",
+      "answer": "Heart attack",
+      "choices": [
+        "Heart attack",
+        "Poisoning",
+        "Drowning",
+        "Falling down stairs"
+      ],
+      "explanation": "Heart attack."
+    }
+  },
+  {
+    "id": "s5e17-59",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie lautet Teddys wirklicher Name?",
+    "answer": "Nathan Krunk",
+    "aliases": [],
+    "choices": [
+      "Nathan Krunk",
+      "Jake Harper",
+      "Eldridge McElroy",
+      "Billy Stanhope"
+    ],
+    "explanation": "Nathan Krunk.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Teddy’s real name?",
+      "answer": "Nathan Krunk",
+      "choices": [
+        "Nathan Krunk",
+        "Jake Harper",
+        "Eldridge McElroy",
+        "Billy Stanhope"
+      ],
+      "explanation": "Nathan Krunk."
+    }
+  },
+  {
+    "id": "s5e17-60",
+    "episodeId": "s5e17",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wie lautet Courtneys wirklicher Name?",
+    "answer": "Sylvia Fishman",
+    "aliases": [],
+    "choices": [
+      "Sylvia Fishman",
+      "Melissa",
+      "Mia",
+      "Evelyn Harper"
+    ],
+    "explanation": "Sylvia Fishman.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Fish_in_a_Drawer",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Courtney’s real name?",
+      "answer": "Sylvia Fishman",
+      "choices": [
+        "Sylvia Fishman",
+        "Melissa",
+        "Mia",
+        "Evelyn Harper"
+      ],
+      "explanation": "Sylvia Fishman."
+    }
+  },
+  {
+    "id": "s9e1-61",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Welcher neue Hauptcharakter erscheint auf der Terrasse des Strandhauses?",
+    "answer": "Walden Schmidt",
+    "aliases": [],
+    "choices": [
+      "Walden Schmidt",
+      "Eldridge McElroy",
+      "Billy Stanhope",
+      "Nathan Krunk"
+    ],
+    "explanation": "Walden Schmidt.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "Which new lead character appears on the beach house deck?",
+      "answer": "Walden Schmidt",
+      "choices": [
+        "Walden Schmidt",
+        "Eldridge McElroy",
+        "Billy Stanhope",
+        "Nathan Krunk"
+      ],
+      "explanation": "Walden Schmidt."
+    }
+  },
+  {
+    "id": "s9e1-62",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer hält zu Beginn die Trauerrede für Charlie?",
+    "answer": "Alan Harper",
+    "aliases": [],
+    "choices": [
+      "Alan Harper",
+      "Gordon",
+      "Larry Martin",
+      "Sam Wilson"
+    ],
+    "explanation": "Alan Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "Who delivers Charlie’s eulogy at the start?",
+      "answer": "Alan Harper",
+      "choices": [
+        "Alan Harper",
+        "Gordon",
+        "Larry Martin",
+        "Sam Wilson"
+      ],
+      "explanation": "Alan Harper."
+    }
+  },
+  {
+    "id": "s9e1-63",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "In welcher Stadt soll Charlie laut Rose verunglückt sein?",
+    "answer": "Paris",
+    "aliases": [],
+    "choices": [
+      "Paris",
+      "London",
+      "Rom",
+      "Madrid"
+    ],
+    "explanation": "Paris.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "In which city did Charlie supposedly have his accident, according to Rose?",
+      "answer": "Paris",
+      "choices": [
+        "Paris",
+        "London",
+        "Rom",
+        "Madrid"
+      ],
+      "explanation": "Paris."
+    }
+  },
+  {
+    "id": "s9e1-64",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Was verschüttet Alan, als Walden ihn erschreckt?",
+    "answer": "Charlies Asche",
+    "aliases": [],
+    "choices": [
+      "Charlies Asche",
+      "Rotwein",
+      "Kaffee",
+      "Parfüm"
+    ],
+    "explanation": "Charlies Asche.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "What does Alan spill when Walden startles him?",
+      "answer": "Charlie’s ashes",
+      "choices": [
+        "Charlie’s ashes",
+        "Red wine",
+        "Coffee",
+        "Perfume"
+      ],
+      "explanation": "Charlie’s ashes."
+    }
+  },
+  {
+    "id": "s9e1-65",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Wie heißt die Bar, in die Alan Walden mitnimmt?",
+    "answer": "Pavlov’s",
+    "aliases": [
+      "Pavlov",
+      "Pavlovs Bar",
+      "Pavlov's Bar"
+    ],
+    "choices": [],
+    "explanation": "Pavlov’s.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "What is the name of the bar Alan takes Walden to?",
+      "answer": "Pavlov’s",
+      "choices": [],
+      "explanation": "Pavlov’s."
+    }
+  },
+  {
+    "id": "s9e1-66",
+    "episodeId": "s9e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "An welchen Konzern verkaufte Walden laut dieser Folge seine Website?",
+    "answer": "Microsoft",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Microsoft.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Nice_to_Meet_You%2C_Walden_Schmidt",
+    "review": "authored",
+    "en": {
+      "prompt": "Which corporation did Walden sell his website to, according to this episode?",
+      "answer": "Microsoft",
+      "choices": [],
+      "explanation": "Microsoft."
+    }
+  },
+  {
+    "id": "s10e1-67",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wem macht Walden einen Heiratsantrag?",
+    "answer": "Zoey",
+    "aliases": [],
+    "choices": [
+      "Zoey",
+      "Judith Harper",
+      "Chelsea Melini",
+      "Jenny Harper"
+    ],
+    "explanation": "Zoey.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Walden propose to?",
+      "answer": "Zoey",
+      "choices": [
+        "Zoey",
+        "Judith Harper",
+        "Chelsea Melini",
+        "Jenny Harper"
+      ],
+      "explanation": "Zoey."
+    }
+  },
+  {
+    "id": "s10e1-68",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "Wie reagiert Zoey auf den Heiratsantrag?",
+    "answer": "Sie lehnt ab",
+    "aliases": [],
+    "choices": [
+      "Sie lehnt ab",
+      "Sie sagt sofort ja",
+      "Sie heiratet noch am selben Tag",
+      "Sie macht selbst einen Antrag"
+    ],
+    "explanation": "Sie lehnt ab.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "How does Zoey respond to the proposal?",
+      "answer": "She says no",
+      "choices": [
+        "She says no",
+        "She immediately says yes",
+        "She marries him that day",
+        "She proposes herself"
+      ],
+      "explanation": "She says no."
+    }
+  },
+  {
+    "id": "s10e1-69",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Welchen Sänger engagiert Walden für den Antrag?",
+    "answer": "Michael Bolton",
+    "aliases": [],
+    "choices": [
+      "Michael Bolton",
+      "Elton John",
+      "Sting",
+      "Billy Joel"
+    ],
+    "explanation": "Michael Bolton.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "Which singer does Walden hire for the proposal?",
+      "answer": "Michael Bolton",
+      "choices": [
+        "Michael Bolton",
+        "Elton John",
+        "Sting",
+        "Billy Joel"
+      ],
+      "explanation": "Michael Bolton."
+    }
+  },
+  {
+    "id": "s10e1-70",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Zu welchem Anlass plant Walden den Antrag?",
+    "answer": "Zoeys Geburtstag",
+    "aliases": [],
+    "choices": [
+      "Zoeys Geburtstag",
+      "Silvester",
+      "Weihnachten",
+      "Valentinstag"
+    ],
+    "explanation": "Zoeys Geburtstag.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "For which occasion does Walden plan the proposal?",
+      "answer": "Zoey’s birthday",
+      "choices": [
+        "Zoey’s birthday",
+        "New Year’s Eve",
+        "Christmas",
+        "Valentine’s Day"
+      ],
+      "explanation": "Zoey’s birthday."
+    }
+  },
+  {
+    "id": "s10e1-71",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Welches Gebäck von Berta löst bei Walden Halluzinationen aus?",
+    "answer": "Brownies",
+    "aliases": [
+      "Brownie",
+      "Cannabis Brownies",
+      "Pot Brownies"
+    ],
+    "choices": [],
+    "explanation": "Brownies.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "Which baked treat from Berta makes Walden hallucinate?",
+      "answer": "Brownies",
+      "choices": [],
+      "explanation": "Brownies."
+    }
+  },
+  {
+    "id": "s10e1-72",
+    "episodeId": "s10e1",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Bei welcher militärischen Teilstreitkraft beginnen Jake und Eldridge ihren Dienst?",
+    "answer": "Army",
+    "aliases": [
+      "US Army",
+      "US-Armee",
+      "Armee"
+    ],
+    "choices": [],
+    "explanation": "Army.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/I_Changed_My_Mind_About_the_Milk",
+    "review": "authored",
+    "en": {
+      "prompt": "Which branch of the military do Jake and Eldridge join?",
+      "answer": "Army",
+      "choices": [],
+      "explanation": "Army."
+    }
+  },
+  {
+    "id": "s11e22-73",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wen möchte Alan in dieser Folge heiraten?",
+    "answer": "Gretchen",
+    "aliases": [],
+    "choices": [
+      "Gretchen",
+      "Jenny Harper",
+      "Melissa",
+      "Sylvia Fishman"
+    ],
+    "explanation": "Gretchen.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Alan plan to marry in this episode?",
+      "answer": "Gretchen",
+      "choices": [
+        "Gretchen",
+        "Jenny Harper",
+        "Melissa",
+        "Sylvia Fishman"
+      ],
+      "explanation": "Gretchen."
+    }
+  },
+  {
+    "id": "s11e22-74",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wer baut einen sprechenden Roboter?",
+    "answer": "Walden Schmidt",
+    "aliases": [],
+    "choices": [
+      "Walden Schmidt",
+      "Herb Melnick",
+      "Marty Pepper",
+      "Teddy Leopold"
+    ],
+    "explanation": "Walden Schmidt.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "Who builds a talking robot?",
+      "answer": "Walden Schmidt",
+      "choices": [
+        "Walden Schmidt",
+        "Herb Melnick",
+        "Marty Pepper",
+        "Teddy Leopold"
+      ],
+      "explanation": "Walden Schmidt."
+    }
+  },
+  {
+    "id": "s11e22-75",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Wer sagt seine Hochzeit mit Lyndsey zunächst ab?",
+    "answer": "Larry Martin",
+    "aliases": [],
+    "choices": [
+      "Larry Martin",
+      "Herb Melnick",
+      "Marty Pepper",
+      "Nathan Krunk"
+    ],
+    "explanation": "Larry Martin.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "Who initially calls off his wedding to Lyndsey?",
+      "answer": "Larry Martin",
+      "choices": [
+        "Larry Martin",
+        "Herb Melnick",
+        "Marty Pepper",
+        "Nathan Krunk"
+      ],
+      "explanation": "Larry Martin."
+    }
+  },
+  {
+    "id": "s11e22-76",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "character",
+    "prompt": "Welche Frau gerät nach der geplatzten Beziehung mit Larry aus der Fassung?",
+    "answer": "Lyndsey McElroy",
+    "aliases": [],
+    "choices": [
+      "Lyndsey McElroy",
+      "Robin Schmidt",
+      "Mia",
+      "Evelyn Harper"
+    ],
+    "explanation": "Lyndsey McElroy.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "Which woman is distraught after her relationship with Larry collapses?",
+      "answer": "Lyndsey McElroy",
+      "choices": [
+        "Lyndsey McElroy",
+        "Robin Schmidt",
+        "Mia",
+        "Evelyn Harper"
+      ],
+      "explanation": "Lyndsey McElroy."
+    }
+  },
+  {
+    "id": "s11e22-77",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Wie heißt Waldens Roboter?",
+    "answer": "WALD-E",
+    "aliases": [],
+    "choices": [],
+    "explanation": "WALD-E.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "What is Walden’s robot called?",
+      "answer": "WALD-E",
+      "choices": [],
+      "explanation": "WALD-E."
+    }
+  },
+  {
+    "id": "s11e22-78",
+    "episodeId": "s11e22",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Welchen erfundenen Namen muss Alan gegenüber Larry aufgeben?",
+    "answer": "Jeff Strongman",
+    "aliases": [],
+    "choices": [
+      "Jeff Strongman",
+      "Marty Pepper",
+      "Teddy Leopold",
+      "Louis"
+    ],
+    "explanation": "Jeff Strongman.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/Oh%2C_Wald-e%2C_Good_Times_Ahead",
+    "review": "authored",
+    "en": {
+      "prompt": "Which invented name does Alan have to give up in front of Larry?",
+      "answer": "Jeff Strongman",
+      "choices": [
+        "Jeff Strongman",
+        "Marty Pepper",
+        "Teddy Leopold",
+        "Louis"
+      ],
+      "explanation": "Jeff Strongman."
+    }
+  },
+  {
+    "id": "s12e2-79",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "character",
+    "prompt": "Wen heiratet Alan in dieser Folge?",
+    "answer": "Walden Schmidt",
+    "aliases": [],
+    "choices": [
+      "Walden Schmidt",
+      "Larry Martin",
+      "Sam Wilson",
+      "Charlie Harper"
+    ],
+    "explanation": "Walden Schmidt.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "Who does Alan marry in this episode?",
+      "answer": "Walden Schmidt",
+      "choices": [
+        "Walden Schmidt",
+        "Larry Martin",
+        "Sam Wilson",
+        "Charlie Harper"
+      ],
+      "explanation": "Walden Schmidt."
+    }
+  },
+  {
+    "id": "s12e2-80",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "easy",
+    "answerKind": "text",
+    "prompt": "Welches Dokument soll Alan vor der Hochzeit unterschreiben?",
+    "answer": "Ehevertrag",
+    "aliases": [],
+    "choices": [
+      "Ehevertrag",
+      "Mietvertrag",
+      "Kaufvertrag",
+      "Testament"
+    ],
+    "explanation": "Ehevertrag.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "Which document is Alan asked to sign before the wedding?",
+      "answer": "Prenuptial agreement",
+      "choices": [
+        "Prenuptial agreement",
+        "Lease",
+        "Sales contract",
+        "Will"
+      ],
+      "explanation": "Prenuptial agreement."
+    }
+  },
+  {
+    "id": "s12e2-81",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Wo findet die Trauung von Alan und Walden statt?",
+    "answer": "Im Gerichtsgebäude",
+    "aliases": [],
+    "choices": [
+      "Im Gerichtsgebäude",
+      "Am Strand",
+      "Auf einer Yacht",
+      "In Las Vegas"
+    ],
+    "explanation": "Im Gerichtsgebäude.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "Where do Alan and Walden get married?",
+      "answer": "At the courthouse",
+      "choices": [
+        "At the courthouse",
+        "On the beach",
+        "On a yacht",
+        "In Las Vegas"
+      ],
+      "explanation": "At the courthouse."
+    }
+  },
+  {
+    "id": "s12e2-82",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "medium",
+    "answerKind": "text",
+    "prompt": "Welcher Sänger tritt bei der Hochzeit auf?",
+    "answer": "Michael Bolton",
+    "aliases": [],
+    "choices": [
+      "Michael Bolton",
+      "Rod Stewart",
+      "Sting",
+      "Elton John"
+    ],
+    "explanation": "Michael Bolton.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "Which singer performs at the wedding?",
+      "answer": "Michael Bolton",
+      "choices": [
+        "Michael Bolton",
+        "Rod Stewart",
+        "Sting",
+        "Elton John"
+      ],
+      "explanation": "Michael Bolton."
+    }
+  },
+  {
+    "id": "s12e2-83",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "text",
+    "prompt": "Auf welcher spanischen Insel vermutet Alan die schicke Bar aus dem Titel?",
+    "answer": "Ibiza",
+    "aliases": [],
+    "choices": [],
+    "explanation": "Ibiza.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "On which Spanish island does Alan imagine the chic bar in the title?",
+      "answer": "Ibiza",
+      "choices": [],
+      "explanation": "Ibiza."
+    }
+  },
+  {
+    "id": "s12e2-84",
+    "episodeId": "s12e2",
+    "category": "episodes",
+    "difficulty": "hard",
+    "answerKind": "character",
+    "prompt": "Wer rät Alan davon ab, den Ehevertrag zu unterschreiben?",
+    "answer": "Evelyn Harper",
+    "aliases": [],
+    "choices": [
+      "Evelyn Harper",
+      "Kandi",
+      "Bridget Schmidt",
+      "Dr. Linda Freeman"
+    ],
+    "explanation": "Evelyn Harper.",
+    "source": "https://twoandahalfmen.fandom.com/wiki/A_Chic_Bar_in_Ibiza",
+    "review": "authored",
+    "en": {
+      "prompt": "Who advises Alan not to sign the prenuptial agreement?",
+      "answer": "Evelyn Harper",
+      "choices": [
+        "Evelyn Harper",
+        "Kandi",
+        "Bridget Schmidt",
+        "Dr. Linda Freeman"
+      ],
+      "explanation": "Evelyn Harper."
+    }
+  }
+]

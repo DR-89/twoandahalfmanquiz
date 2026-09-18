@@ -1,0 +1,13 @@
+{
+  "ready": 262,
+  "total": 262,
+  "questions": 3442,
+  "episodeQuestions": 3406,
+  "authored": 84,
+  "generated": 3358,
+  "characterCounts": {
+    "easy": 12,
+    "medium": 12,
+    "hard": 12
+  }
+}

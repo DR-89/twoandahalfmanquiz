@@ -1,0 +1,60 @@
+import fs from 'node:fs/promises';
+import {candidates} from './question-tools.mjs';
+const clean=s=>s.replace(/<sup\b[\s\S]*?<\/sup>/g,'').replace(/<br\s*\/?\s*>/gi,' | ').replace(/<[^>]+>/g,'').replace(/&amp;/g,'&').replace(/&#160;|&nbsp;/g,' ').replace(/&#91;/g,'[').replace(/&#93;/g,']').replace(/&quot;/g,'"').replace(/\s+/g,' ').trim();
+const es=JSON.parse(await fs.readFile('.source-cache/combined.json','utf8'));
+for(let season=1;season<=12;season++){
+ const html=await fs.readFile(`.source-cache/seasons/${season}.html`,'utf8');
+ for(const row of html.matchAll(/<tr\b[^>]*class="vevent[^"\n]*"[^>]*>([\s\S]*?)<\/tr>/g)){
+  const cells=[...row[1].matchAll(/<t[dh]\b[^>]*>([\s\S]*?)<\/t[dh]>/g)].map(x=>clean(x[1]));
+  if(cells.length<7)continue;
+  const n=+cells[1];const e=es.find(e=>e.season===season&&e.number===n);if(!e)continue;
+  e.director=cells[3];e.writers=cells[4];e.airDate=cells[5].match(/\d{4}-\d{2}-\d{2}/)?.[0];
+  e.productionCode=cells[6];
+ }
+}
+const finale=es.find(e=>e.id==='s12e15');Object.assign(es.find(e=>e.id==='s12e16'),{director:finale.director,writers:finale.writers,airDate:finale.airDate,productionCode:finale.productionCode});
+// Strip navigation and trivia/cast lists which search excerpts may append to plots.
+for(const e of es)for(const s of e.sources)s.text=s.text.split(/\s---\s|\sSeason \d|\sGuest [Ss]tars|\sCast\[|\sThe episode was watched/)[0].replaceAll('Proudence','Prudence').replaceAll('witch’s stroke','back pain').replaceAll("witch's stroke",'back pain');
+// Concise fact statements, paraphrased from the cited episode summaries.
+const facts={
+ s2e10:"Charlie writes a theme song for the cartoon Oshikuru: Demon Samurai. Jake dislikes Charlie's original theme song for Oshikuru. Charlie and Jake work together on a new version of the song. Alan and Rose kiss but decide to remain friends. Rose plans to sneak salmon into the cinema with Alan.",
+ s3e17:"Charlie's advertising jingle is nominated for an award. Charlie wants to boycott the ceremony because his rival always wins. Charlie's family tries to trick him into attending the award ceremony. Charlie's rival wins the advertising award again. Evelyn sleeps with Charlie's rival after the award ceremony. Rose asks Charlie for advice about her problems with Gordon.",
+ s3e23:"Mia invites Charlie to a performance by her dance troupe. Charlie initially refuses Mia's invitation and tells Alan that he is over her. Charlie eventually attends Mia's dance performance. Mia asks Charlie to donate sperm in case she wants a baby. Charlie responds to Mia's request with a marriage proposal. Mia accepts Charlie's marriage proposal.",
+ s5e18:"Alan wants Jake to write a book report about The Taming of the Shrew. Jake repeatedly loses the book he needs for his report. Charlie looks for relationship advice in books at the library. Charlie becomes attracted to the self-help author Angie. Alan sees Angie as a second mother.",
+ s6e13:"Judith is expecting a baby girl and Alan thinks he is the father. Alan helps Herb paint the room for the baby. Judith throws Alan out after he upsets her. Charlie tries to find out why Jake is irritable. Charlie says the title phrase while drunk and talking about Alan's cab driver.",
+ s10e7:"Walden hires the actress Whitney to pretend to be his girlfriend. Walden develops real feelings for Whitney during their fake relationship. Whitney tells Walden that she is a lesbian. Walden and Whitney continue their fake relationship after her revelation. Jake goes AWOL from the Army to see Missi. Jake tells Missi that he has feelings for her. Missi urges Jake to return to the Army. Jake and Missi plan to meet at the beach house.",
+ s3e10:"Alan invites his family to dinner to announce his interview in a local newspaper. Alan gets drunk after his family belittles his news. Evelyn's cutting remark makes Alan resolve to stop seeking women's approval. Charlie takes Alan to a bar to help him approach women. Charlie uses the title phrase when a waitress offers him pretzels.",
+ s3e12:"Alan breaks down in a bookstore, a restaurant and a cinema. Charlie throws Alan out of his car after another breakdown. Charlie seeks advice from Dr. Linda Freeman about Alan's emotional problems. Alan struggles with Jake becoming more independent.",
+ s2e9:"Charlie leaves a disappointing blind date and meets Lisa again at a coffee shop. Lisa is now divorced and has a daughter. Charlie considers a relationship with Lisa but struggles with commitment. Alan encounters Charlie's abandoned date in the shower. Jake blackmails Alan after witnessing the incident in the shower.",
+ s2e17:"Charlie suffers from back pain but refuses Alan's professional help. Alan sends Charlie to a doctor whom Charlie once dated. Charlie dumped the doctor for her roommate. The doctor takes revenge on Charlie during a hernia examination. Berta makes Jake clean the bathroom as a punishment.",
+ s4e10:"Lydia and Berta both give Charlie an ultimatum. Charlie refuses to choose between Lydia and Berta, so both women leave. Lydia wants space in Charlie's dresser for her possessions. Alan wants to sell the condominium he shared with Kandi to avoid bankruptcy. Kandi seduces Alan to keep him from selling the condominium.",
+ s5e3:"Alan arranges a double date for Charlie with the judge Linda Harris. Charlie's behavior on the date puts Linda Harris off. Charlie is later arrested for public drunkenness. Charlie appears in Linda Harris's courtroom after his arrest. Charlie persuades Linda Harris to have dinner with him.",
+ s5e7:"Alan and Charlie argue about a bowl that Alan bought for the house. Alan moves out of Charlie's house and takes Jake to Evelyn's home. Teddy tries to reconcile Alan and Charlie without success. Evelyn ultimately gets Alan and Charlie to make peace.",
+ s5e8:"Charlie records children's songs using the name Charlie Waffles. Charlie meets fans while signing copies of his CD. Alan is jealous of Charlie's success as a children's entertainer. Artie insists that Charlie perform a concert despite his stage fright. Charlie drinks alcohol before performing his successful concert.",
+ s5e13:"Alan goes out with Cynthia, an old friend of Alan and Judith. Alan asks Judith's permission before dating Cynthia. Cynthia tells Alan that Herb is the best lover Judith has had. Alan keeps asking Cynthia about Herb's sexual abilities. Cynthia gets fed up and leaves Alan in the street.",
+ s5e14:"Charlie meets an old girlfriend but cannot remember her name. Jake is interested in the old girlfriend's daughter. Charlie and Jake arrange a double date with the mother and daughter. Alan asks Charlie for the telephone number of a prostitute.",
+ s5e15:"Charlie begins seeing an unusually large number of women. Charlie discusses his compulsive behavior with Dr. Linda Freeman. Charlie's feelings about Mia contribute to his behavior. Charlie goes to Mia's wedding after realizing that he misses her.",
+ s5e19:"Charlie dates Angie and meets her son's fiancée. Charlie previously had a relationship with the fiancée of Angie's son. Angie ends her relationship with Charlie after the engagement falls apart. Alan helps Jake study for an algebra examination.",
+ s6e14:"Melissa organizes a party for Alan's fortieth birthday. Alan is disappointed by his family's behavior at the birthday party. Alan moves in with Melissa and her mother Shelly. Shelly seduces Alan while he is staying in Melissa's home. Melissa discovers Alan in bed with Shelly.",
+ s6e15:"Charlie and Chelsea attend couples therapy with Dr. Linda Freeman. Alan uses Charlie's relationship difficulties to his own advantage. Charlie and Chelsea seek help with their communication problems.",
+ s6e17:"Charlie tells Chelsea that he loves her, but Chelsea only thanks him. Charlie asks Dr. Linda Freeman for advice about Chelsea's response. Charlie proposes to Chelsea while trying to regain control of their relationship. Chelsea accidentally swallows the engagement ring.",
+ s6e18:"Chelsea catches a cold and asks Charlie to look after her. Charlie finds nursing Chelsea unpleasant and difficult. Alan gives Charlie advice about taking care of Chelsea. Charlie gets sick himself after Chelsea recovers.",
+ s6e22:"Chelsea moves into Charlie's house and brings her cat. Charlie struggles with sharing his home with Chelsea. Chelsea's cat is named Sir Lancelot. Alan looks for another place to live as Chelsea moves in. Charlie spends time alone in Chelsea's former apartment.",
+ s6e23:"Alan takes up ventriloquism while feeling lonely. Chelsea invites Alan to join activities that Charlie dislikes. Charlie becomes jealous of the time Alan spends with Chelsea. Alan uses a ventriloquist dummy for his new hobby.",
+ s7e9:"Chelsea learns that her former husband is getting married again. Charlie worries about Chelsea's reaction to the news about her ex-husband. Alan tries to conceal his hair loss using a spray. Alan orders hair-growth pills over the internet.",
+ s7e10:"Charlie takes ballroom dancing lessons for his wedding to Chelsea. Chelsea reveals that she owns several properties. Charlie is upset that Chelsea has not contributed to the household bills. Alan and Jake watch the video of Alan's wedding to Judith."
+};
+for(const [id,text]of Object.entries(facts)){
+ const e=es.find(e=>e.id===id);e.sources.unshift({url:e.source,language:'en',text,adaptation:true});
+}
+// These extra details have their own source rather than being attributed to Wikipedia.
+es.find(e=>e.id==='s6e18').sources.unshift({url:'https://www.imdb.com/title/tt1256409/plotsummary/',language:'en',adaptation:true,text:'Berta helps Charlie look after Chelsea during her illness. Charlie seeks medicine from the pharmacist Russell. Charlie has nightmares about Chelsea\'s cat Sir Lancelot.'});
+es.find(e=>e.id==='s6e22').sources.unshift({url:'https://transcripts.foreverdreaming.org/viewtopic.php?t=53538',language:'en',adaptation:true,text:"Charlie gives Chelsea the house key that belonged to Alan. Chelsea changes the pillows, towels and shower curtain in Charlie's home. Chelsea replaces the salt and pepper shakers with ceramic roosters. Chelsea suggests moving Sir Lancelot's litter box into the laundry room. Alan orders a Sea Breeze with extra pineapple at the bar."});
+// The finale aired as a double episode. Keep the two catalogue entries, but use
+// different sections of its story so their question sets do not duplicate each other.
+const f1="Alan needs Charlie's death certificate to collect unpaid royalties. Evelyn cannot find Charlie's death certificate. Walden begins to question whether Charlie really died. Rose has held Charlie captive for four years. Jenny receives a large check and an apology from Charlie. Charlie's former girlfriends also receive checks and apologies. Rose caught Charlie cheating during their honeymoon in Paris. A goat died under the train instead of Charlie. Alan receives a parcel containing whiskey, cigars and a knife. Rose admits that Charlie is still alive.";
+const f2="Alan and Walden go to the police after receiving threats from Charlie. Lieutenant Wagner promises to help Alan and Walden. Jake returns and tells Alan that he has left the Army. Jake is married and now lives in Japan. Jake turns a check into a fortune by gambling in Las Vegas. The police mistakenly arrest Christian Slater instead of Charlie. Alan, Walden and Berta smoke cigars on the terrace. A helicopter carries a piano towards the house. A piano falls on Charlie at the front door. Chuck Lorre says Winning before a second piano falls on him.";
+for(const [id,text]of [['s12e15',f1],['s12e16',f2]]){const e=es.find(e=>e.id===id);e.sources=[{url:e.source,language:'en',text,adaptation:true}];}
+await fs.writeFile('.source-cache/prepared.json',JSON.stringify(es,null,2));
+const stats=es.map(e=>({id:e.id,n:new Set(e.sources.flatMap(s=>candidates(s.text,s.url)).map(c=>c.key)).size,metadata:[e.director,e.writers,e.airDate]}));
+console.log(JSON.stringify({short:stats.filter(e=>e.n<10),missing:stats.filter(e=>e.metadata.some(x=>!x)),metadataSample:stats.slice(0,3)},null,2));
