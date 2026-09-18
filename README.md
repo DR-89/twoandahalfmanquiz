@@ -4,6 +4,8 @@ Zweisprachiges Fan-Quiz nach dem Spielprinzip des South Park Quiz Club, mit Solo
 
 Quellcode: [DR-89/twoandahalfmanquiz](https://github.com/DR-89/twoandahalfmanquiz).
 
+Site-Adresse: [Two and a Half Men Quiz Club](https://twoandahalfmanquiz.droessler89.chatgpt.site).
+
 ## Spielen
 
 Lokale Vorschau: http://localhost:5174/ – nur auf diesem Rechner erreichbar.
